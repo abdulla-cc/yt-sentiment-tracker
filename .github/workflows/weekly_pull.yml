@@ -26,8 +26,11 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python run_collection.py
 
-      - name: Run sentiment scoring
-        run: python run_scoring.py
+      - name: Detect language
+        run: python detect_language.py
+
+      - name: Run sentiment scoring on English comments
+        run: python reset_and_score_english.py
 
       - name: Run aggregation
         run: python aggregate.py
