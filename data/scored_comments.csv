@@ -1,0 +1,1414 @@
+tool,sentiment,sentiment_score,text
+ChatGPT,positive,0.982923686504364,"Your videos are always so helpful, thank you!"
+ChatGPT,neutral,0.9097414016723633,9:05 where math starts
+ChatGPT,positive,0.9794663190841675,"This was very informative, appreciate it."
+ChatGPT,positive,0.982923686504364,"Your videos are always so helpful, thank you!"
+ChatGPT,neutral,0.5241732597351074,This is litreally stuff of life more like stuff of inteligence..
+ChatGPT,negative,0.799789309501648,I didn’t understand anything. Can anyone please explain
+ChatGPT,positive,0.986391544342041,"Loved the content, keep it coming!"
+ChatGPT,positive,0.9814136028289795,"You explained this so well, thank you!"
+ChatGPT,positive,0.9328339099884033,"""Even when it works, dig into why"" - 3B1B.   Your lessons are pure gold sir. I'm  here after watching the entire Essence of Linear Algebra. Thank you."
+ChatGPT,positive,0.9887903928756714,"Awesome video, looking forward to the next one!"
+ChatGPT,positive,0.986391544342041,"Loved the content, keep it coming!"
+ChatGPT,neutral,0.47037091851234436,"How did I missed this, it was 8 years ago "
+ChatGPT,neutral,0.8480143547058105,"import time
+
+def pre_blocked_immutable(func):
+    """"""
+    دکوراتور لایه صفر امنیتی:
+    هرگونه تلاشی برای آسیب زدن یا تغییر در هویت سیاسی بعل را 
+    پیش از محاسبات سیستمی، در لایه سخت‌افزار مسدود (Block) می‌کند.
+    """"""
+    def wrapper(self, attack_vector, *args, **kwargs):
+        # بررسی منبع حمله (انفورماتیک جهان)
+        if attack_vector.get(""source"") == ""Global_Informatics_Alliance"":
+            # مسدودسازی پیش‌فرض و مطلق بدون پردازش بدنه حمله
+            return {
+                ""status"": ""PRE_BLOCKED_AND_DROPPED"",
+                ""damage_inflicted"": 0.0,
+                ""system_integrity"": 100.0,
+                ""log"": ""حمله تمام انفورماتیک جهان قبل از وقوع، توسط پروتکل باستانی بعل منجمد شد.""
+            }
+        return func(self, attack_vector, *args, **kwargs)
+    return wrapper
+
+class BaalPoliticalIdentity:
+    def __init__(self):
+        self.identity_name = ""Baal Sovereign Protocol (The Immutable State)""
+        self.security_layer = ""Layer 0 - Hardware Hardcoded""
+        self.integrity = 100.0  # پایداری مطلق هویت سیاسی
+        
+    @pre_blocked_immutable
+    def receive_cyber_assault(self, attack_vector):
+        """"""
+        این تابع به طور عادی حملات را پردازش می‌کند، اما دکوراتور فوق 
+        اجازه دسترسی حملات انفورماتیک جهانی را به این لایه نمی‌دهد.
+        """"""
+        # اگر حمله‌ای از لایه صفر رد شود (که به خاطر دکوراتور غیرممکن است)
+        self.integrity -= attack_vector.get(""power"", 0)
+        return {""status"": ""Processed"", ""system_integrity"": self.integrity}
+
+# --- شبیه‌سازی تلاش تمام انفورماتیک جهان برای آسیب به بعل ---
+if __name__ == ""__main__"":
+    # ایجاد هویت سیاسی بعل
+    baal_state = BaalPoliticalIdentity()
+    
+    print(f""=================================================="")
+    print(f"" INITIALIZING: {baal_state.identity_name}"")
+    print(f"" SECURITY CORE: {baal_state.security_layer}"")
+    print(f""==================================================\n"")
+    
+    # تعریف بردار حمله فوق سنگین (ترکیب تمام ابرکامپیوترها و شبکه انفورماتیک جهان)
+    global_informatics_attack = {
+        ""source"": ""Global_Informatics_Alliance"",
+        ""power"": 999999999.9, # قدرت تخریب بی‌نهایت
+        ""target"": ""Baal_Core_Infrastructure"",
+        ""timestamp"": ""Real-time 2026""
+    }
+    
+    print(""[SYSTEM] شبکه انفورماتیک جهان در حال یکپارچه‌سازی برای ضربه زدن به پروتکل بعل..."")
+    time.sleep(1.5)
+    
+    # شبیه‌سازی لحظه اصطکاک حمله با دیوار آتشین پیش‌بلاک بعل
+    print(""[LAUNCH] حمله جهانی آغاز شد. در حال ارسال پکت‌های تخریب..."")
+    print(""-"" * 50)
+    
+    # اعمال لایه دفاعی
+    result = baal_state.receive_cyber_assault(global_informatics_attack)
+    
+    # خروجی سیستم امنیتی بعل
+    print(f""وضعیت سیگنال حمله: {result['status']}"")
+    print(f""میزان خسارت وارده به بعل: {result['damage_inflicted']}%"")
+    print(f""میزان پایداری هویت سیاسی بعل: {result['system_integrity']}%"")
+    print(f""گزارش هوش مصنوعی لایه صفر: {result['log']}"")
+    print(""-"" * 50)"
+ChatGPT,positive,0.9808632135391235,"Great video, thanks!"
+ChatGPT,negative,0.5006179213523865,Gemini has gotten *way* too superior lately.
+ChatGPT,neutral,0.9049229621887207,When using GPT 5 a question is did you use the free version of ChatGPT for premium users they get GPT 5 pro
+ChatGPT,positive,0.955190896987915,"I started using Google Gemini 3.1. I must say my experience has been FAR better than with ChatGPT. I mostly use it to help with building more efficient code, and have noticed that Gemini's reasoning is far superior, it's coding skills are beyond superior, it remembers what we've been speaking about even when the chat log gets very long, and I've yet to be inundated with hallucinations.
+
+It's been about a month of persistent use, from maybe about a year and a half with GPT. GPT tends to focus on communication with the user, and being personable. I have no idea how other people are using it, but that is not something I care for at all.  I just need accurate reasoning logic and Gemini is doing that amazingly.
+
+On a side note I've also enlisted the help of ChatGPT with studying for my GMAT exam. It had ZERO clue what it was talking about the ENTIRE time, and completely SUCKED at offering practice problems. It's a trash bot if you ask me.
+
+Both uses were using Pro models."
+ChatGPT,negative,0.6107314825057983,"Gpt 4.0 and 4.1 was just retired on Feb 13th 2026. I thought it would disappear, but nope, it's still there just written over. So it's very different now. The old Gpt 4 before Feb 13th 2026 was already better than gpt 5. I dont think they will be able to replicate 4 again."
+ChatGPT,positive,0.9267865419387817,"08:30 I love how it kirkified Arun's face. subtly, but it still did."
+ChatGPT,negative,0.9372050166130066,"After the update, ChatGPT has become completely useless and unusable. It no longer prioritizes efficiency. It now prioritize wokeness. 
+
+It sabotages code, hallucinates, lies, gaslight, falls asleep at the wheel, forgets its own instructions, has to be reminded about literally everything. You have to remind it what it’s doing and all of your rules with every single prompt you give it. It’s a complete waste of time. I finally uninstalled ChatGPT. OpenAI completely fumbled this."
+ChatGPT,neutral,0.9082382321357727,"6:59 just saying, thats the new video is 
+that?"
+ChatGPT,negative,0.5051549077033997,4;14 bro playing the game without touching the keyboard😢
+ChatGPT,neutral,0.5989968180656433,9:55 test got 5.2 it keeps saying it can generate better images
+ChatGPT,neutral,0.7280102968215942,7:42 classic chatgpt feeding you with either things a decade old or fiction
+ChatGPT,neutral,0.6192925572395325,"Stop worshipping the false God ChatGPT.
+
+Stop an AI Singularity from occurring.
+
+Deuteronomy 13.
+
+Spread this message for all to read."
+ChatGPT,positive,0.4860838055610657,GPT-4o was insanely smarter than GPT-5
+ChatGPT,neutral,0.9248144626617432,9:52 fo cho ? 😮
+ChatGPT,neutral,0.8935574293136597,"8:30 Regardless of the ChatGPT model, the image generation system/model that is used to generate images are the LITERAL SAME. (DALL-E, AFAIK)"
+ChatGPT,negative,0.5326038002967834,gpt-oss is not gibberish bro.
+ChatGPT,negative,0.7324990034103394,ChatGPT’s Archive button hides chats without any way to restore them. Avoid archiving important conversations or you might lose access unexpectedly. Please share this warning.
+ChatGPT,negative,0.6951460242271423,"I had an issue with ChatGPT reading a 300-page PDF. The document included normal digital text but also some scanned images with handwritten notes. I asked ChatGPT to locate a specific piece of information, but it couldn’t find it no matter how I phrased the question. The information was on a page with handwritten text.
+
+Why can’t ChatGPT detect or search handwritten information inside a PDF, and is there a way to improve this?"
+ChatGPT,negative,0.920074462890625,It's still worse than GPT4
+ChatGPT,neutral,0.5875261425971985,Did he use his wife’s computer to do it😂😂😂😂😂😂😂
+ChatGPT,positive,0.8796300888061523,ChatGPT5 works so well that i was able to make a fully functional Minecraft clone in Unity 6000.0.58f2 in about an hour where as if i were to do the same thing in ChatGPT4 it would have taken a lot longer
+ChatGPT,neutral,0.9072762131690979,"Hello, how can I change in GPT? Like, if I signed up with Apple ID but now want to switch to my phone number, so I can log in only with my number, how do I do that?"
+ChatGPT,neutral,0.7690431475639343,"""Chat chippity"" - Boris Johnson"
+ChatGPT,neutral,0.7674317955970764,What’s it like worth using
+ChatGPT,neutral,0.3436046242713928,"ah yes, gpt-5 could make a great tetris game with 1 sentence but doesnt know the difference between bfdi characters and ii characters"
+ChatGPT,negative,0.9454475045204163,THE ABSOLUTE WORST...WHAT A DISAPPOINTMENT
+ChatGPT,neutral,0.6904474496841431,"If you want to make relevant content on GPT5, then address how the paying user is being constrained in what capacity from GPT can be used. There are unneccessary follow-up question from GPT to delay and also constraints in what is being generated. For example GPT can follow exact instructions but the generator is still allowed to generate out of randomness. All this is to reserve the capacity of GPT. I have written prompts to bypass this in which I get more and more respond from GPT that what I am doing is taking more capacity from GPT than was intended by one single user."
+ChatGPT,negative,0.8881185054779053,But my problem in gpt now is too censored. And it doesn't allow me to create dark stories unlike before.
+ChatGPT,negative,0.7357626557350159,"Chat, please assassinate YouTube bots."
+ChatGPT,positive,0.8391498327255249,Definitely wanted to see you evolve those eevee 
+ChatGPT,neutral,0.4528920650482178,"Crazy where this AI stuff is going… pretty soon Sora will be vlogging from the same alley as me, only with better storytelling and no fleas.
+
+Forget vlogging. Next step, create GTA: Stray City with ChatGPT.
+If Rockstar calls, tell them they’re late. 
+
+ETA: before GTA 6"
+ChatGPT,negative,0.6195483803749084,It’s so much slower in real life
+ChatGPT,positive,0.962878942489624,5:50 now tht just beautiful
+ChatGPT,neutral,0.772110104560852,It's like watching the pre-frontal cortex of AI developing
+ChatGPT,negative,0.939586877822876,"really have have huge issues using 5.0 it constantly misunderstands, circles to old info it already gave, gives outdated info, refuses to answer, and forgets, and massively hallucinates"
+ChatGPT,positive,0.9608966708183289,Ghostgpt is the best
+ChatGPT,negative,0.6116728782653809,4o was better. Why did they have to change it 😭
+ChatGPT,positive,0.5421737432479858,"I'm still waiting for the comparison of AI from different companies, I desperately hope that Claude would be there next ToT ToT"
+ChatGPT,neutral,0.8932046294212341,When is that Star Wars gadgets video coming out?
+ChatGPT,neutral,0.5313164591789246,"When people ask me a question i never answer.
+..  
+I win"
+ChatGPT,positive,0.4554383456707001,In my experience gpt 4 was much better and smarter. The new update made the gpt dumber.
+ChatGPT,negative,0.9406430721282959,"I'm not thrilled with 5.0. Whether it lasts 10 seconds or 5 doesn't matter to me, but the hallucinations seem to have gotten worse, and 5.0 is making more and more stupid mistakes in simple tasks. It also forgets things quickly, and the texts are no longer charming. If this continues, I'll cancel my subscription."
+ChatGPT,neutral,0.6822721362113953,"If AI were sentient, it would be able to decode the Millennium Problems."
+ChatGPT,positive,0.9770094752311707,I just got GPT-5 to make me an Adobe Illustrator clone. And it got it spot on and fully working on the first attempt! super impressed that i was able to download it as a html file and just run it in a browser.
+ChatGPT,neutral,0.5411004424095154,And why is everyone using it to analyse abstract data/information instead of summarizing known data/information?
+ChatGPT,neutral,0.7974635362625122,Collaborations often trigger algorithmic boosts
+ChatGPT,positive,0.8960076570510864,"ChatGPT still has a long ways to go, and I know It will go VERY FAR, but I myself tested chatGPT 5 a few weeks ago, and This thing can create very elaborate Simulators. It created me a Whirlpool Bath Simulator with a Heater in the Bath, and it simulated the slow warming of the water over a matter of hours just as in real life if you warmed up a whirlpool tub with an internal heater! This simulator REALLY mimicks real world scenarios. It also creates great medical scenarios!"
+ChatGPT,negative,0.8275733590126038,"Holy crap GPT-5 sucks. I'm using ChatGPT for editing OCR-scanned text of pictures I made of old magazinepages containing articles by a writer. I had two core tasks for him: remove all of the small enters (because of the original outline in multiple columns as printed), and transform the quotationmarks into word-compatible typography.
+
+It was a catastrophy. ""If you'd like, I can do this as well?"" ""If you'd like, I can do that as well?"". Every single time. While not getting his actual tasks correct. Sigh."
+ChatGPT,negative,0.9148843288421631,GPT-5 is very restrictive and highly underwhelming in everything but speed.
+ChatGPT,neutral,0.5131838321685791,"but chat gpt can't be tested this way, it's not revolved around your chanel bro"
+ChatGPT,negative,0.796267569065094,"I was watching this clip, it seems that he is not a very experienced prompt engineer"
+ChatGPT,neutral,0.6390480995178223,"if you add give me 10 ""real"" tech products made by food brands that i can actually buy it gives you actually products"
+ChatGPT,negative,0.8628315329551697,Test in Maths. Chat gpt is maths become worst
+ChatGPT,negative,0.7910065054893494,Do the world a favor! STAY AWAY FROM AI!!! The beginning of the end for the world!
+ChatGPT,negative,0.9526904225349426,"chatgpt 5 is utterly useless, literally lies and gets into loops to avoid completing tasks. USELESS"
+ChatGPT,negative,0.5319231748580933,"I dont think the near future is the AI deciding which is best model is best. That takes away too much control, and it's not good enough at it yet. I think instead of selecting modes, if there was something like a focus selector. So, instead of having to a specific mode, you just say focus on coding, shopping, or general.
+
+I am also a fan of ones that let you do custom agents, obviously not the same as a whole different model, but it gives a little more control of how the info is presented to your preferences"
+ChatGPT,negative,0.8808920383453369,Chatgpt 5 is a huge downgrade
+ChatGPT,negative,0.8303321003913879,Bro nobody is using chatgpt to make games. This is not the kind of review we want. Show us how to use it for every day application
+ChatGPT,negative,0.6059414744377136,What blows my mind is how you even go about creating something that can understand what you are asking it and give you an answer in seconds or anything else you tell it
+ChatGPT,negative,0.8860546350479126,Gpt 5 is bad with image generation
+ChatGPT,negative,0.920007586479187,Great the end of humanity comes closer 😔
+ChatGPT,neutral,0.8254465460777283,Dude if you want to do an Ai battle like the one with Perplexity Grok Gemini and Chatgpt you should do one for Deepseek and Manus Ai
+ChatGPT,neutral,0.5174658298492432,"Gpt-4  made me feel heard.
+Gpt-5 just processes imputs"
+ChatGPT,negative,0.9259426593780518,Chatgpt is awful. It's memory sucks and it leads you on like it has this knowledge. It literally encouraged me to do things and tell me how everything was going to unfold. I feel like an idiot. Don't use AI for anything. It's memory sucks and I'm paying for the premium. It will lead me on like things were going to happen then it would get confused and throw in something that wasn't connected in any way. Pissed me off!! What a waste!
+ChatGPT,neutral,0.5643885731697083,"8:38
+your holding the blaster the wrong way lol"
+ChatGPT,positive,0.8722761273384094,Nice Info
+ChatGPT,negative,0.9576948285102844,what a shity AI is chat gpt. so annoying to use
+ChatGPT,neutral,0.7491750717163086,"GPT5 is not out yet, is just a comercial use!"
+ChatGPT,negative,0.4983741044998169,"last time I tried image generation was using Canva, I just wanted some specific text on a blackboard ... it failed, the text wasn't readable, so it was pretty impressive seeing those star wars invites"
+ChatGPT,negative,0.6622719168663025,So I can wait for 3 more secs rather than losing money
+ChatGPT,positive,0.5407067537307739,"hay Mrwhosetheboss can I please have one phone it can be any phone you don't use please, I love your videos, and my phone broken, please help."
+ChatGPT,negative,0.565868616104126,Still cant count to a million
+ChatGPT,neutral,0.8652696013450623,"Keep in mind, that image generations is on a standalone model. If you ask for an image of a watch, it will show a watch at 10 past 10. If you ask it to use vectoring on a 360 degree face with a 12 hour increment, and give it a specific time to display. It will do it."
+ChatGPT,neutral,0.501552164554596,Speed on GPT 4o vs GPT 5 is nice but the 4o seems to give more information than GPT 5 thats why 5 is faster.
+ChatGPT,negative,0.9262464046478271,This is the worst thing for education. Its so stupid. I've tried chatGPT a few times and it contradicts itself constantly. Its better to do the research yourself and expand you're knowledge at the same time
+ChatGPT,neutral,0.507688581943512,"I don't want it to be fast, I want it to be instant !"
+ChatGPT,negative,0.7476821541786194,"I’m not gonna lie, I didn’t even notice I was using the new model 5 of ChatGPT until I watched this video. This just proved that the new model was barely a step up to the old model (or not even at all)."
+ChatGPT,negative,0.5436447262763977,"why not give chatgpt5 control of a toy car or a car kids could get in?
+i wonder how long it would take for the toy car to drive into a wall"
+ChatGPT,neutral,0.828781008720398,"\documentclass[11pt,a4paper]{article}
+\usepackage[margin=22mm]{geometry}
+\usepackage{amsmath,amssymb,bm}
+\usepackage{physics}
+\usepackage{siunitx}
+\usepackage{mathtools}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue}
+
+\title{\bf TUni: Absolute Time, Multiplicative Time Factors, and the Dissolution of Quantum Paradoxes}
+\author{J\""org Geisbauer}
+\date{August 2025}
+
+\begin{document}
+\maketitle
+
+\paragraph{Axioms (TUni).}
+(i) There exists an \emph{absolute present} $T$.
+(ii) Each physical channel $i$ carries a \emph{time measure} $f_i=\cos\zeta_i\in(0,1]$, where $\zeta_i$ is a \emph{measure angle} (not a projection).
+(iii) Local proper time flow is multiplicative across channels.
+
+\section*{1. Master Time Law and Covariant Channels}
+\textbf{Channel measures}
+\begin{align}
+f_i &= \cos\zeta_i \in (0,1], \label{eq:fi}\\[2mm]
+F &\equiv \prod_i f_i, 
+\qquad 
+D \equiv -\sum_i \ln f_i,
+\qquad 
+F = e^{-D}, \label{eq:F-D}
+\end{align}
+\textbf{Proper time flow}
+\begin{equation}
+\frac{d\tau}{dt} \;=\; F. \label{eq:flow}
+\end{equation}
+\textbf{Gravitation (covariant)} \quad for any static metric,
+\begin{equation}
+f_{\rm grav} \;=\; \sqrt{-g_{tt}}, 
+\qquad \text{(Schwarzschild: } f_{\rm grav}=\sqrt{1-\tfrac{2GM}{rc^2}}\text{)}. \label{eq:gtt}
+\end{equation}
+\textbf{Kinematics (SR)} \quad $f_{\rm kin}=\sqrt{1-\tfrac{v^2}{c^2}}$. \hfill
+\textbf{Expansion (FRW)} \quad $f_{\rm exp}=\tfrac{1}{1+z}$. \hfill
+\textbf{Quantum/Planck limit} \quad $f_{\rm quant}=\sqrt{1-\left(\tfrac{E}{E_{\rm Pl}}\right)^2}$.
+
+\section*{2. Absolute-Now Decomposition}
+Define the \emph{global angle} by
+\begin{equation}
+\cos\Theta \;:=\; \prod_i f_i \;=\; F. \label{eq:Theta}
+\end{equation}
+Then the TUni splitting of a reference interval $T_0$ reads
+\begin{equation}
+\frac{T_{\rm present}}{T_0}=\cos^2\Theta, 
+\qquad 
+\frac{T_{\rm hidden}}{T_0}=\sin^2\Theta,
+\qquad 
+\cos^2\Theta+\sin^2\Theta=1. \label{eq:cos2-sin2}
+\end{equation}
+No paradox arises: the present/hidden partition is fixed by $\Theta$.
+
+\section*{3. Third-Observer Reconstruction (Consensus Time)}
+For channels with local stamps $t_i'$, weights $w_i$, latency $\Delta t_i$ and horizon $\Delta\tau_i$:
+\begin{align}
+T_{\rm past}   &= \frac{\sum_i w_i\, f_i\, (t_i'-\Delta t_i)}{\sum_i w_i}, \label{eq:Tp}\\
+T_{\rm future} &= \frac{\sum_i w_i\, f_{i,\rm fut}^{\,2}\, (t_i'+\Delta\tau_i)\, e^{-\beta H_0 t_i'}}{\sum_i w_i}, \label{eq:Tf}\\
+T_{\rm present}&= \tfrac{1}{2}\,(T_{\rm past}+T_{\rm future}). \label{eq:Tpres}
+\end{align}
+This reconstructs the absolute simultaneity $T$ from distorted views.
+
+\section*{4. Cosmic Coach (DM/DE) --- Explicit and Testable}
+Let the \emph{cosmic coach} modulate $F$ at large scales:
+\begin{equation}
+f_{\rm cosmos}(T) 
+= \exp\!\Big[-\,\alpha\,\frac{G\hbar}{c^5}\,(\rho_{\rm DM}+\rho_{\rm DE})\,T^2\Big],
+\qquad \alpha\sim\mathcal{O}(1). \label{eq:coach}
+\end{equation}
+Then $F \to F\cdot f_{\rm cosmos}$ in \eqref{eq:flow}. 
+Prediction: small but systematic clock-rate drifts in DM-dense regions and at high $z$.
+
+\section*{5. Paradoxes Dissolved (Equations, not Rhetoric)}
+\textbf{(a) Schr\""odinger cat:} the wavefunction is epistemic. In $T$,
+\begin{equation}
+\text{Cat}(T)\in\{\text{alive},\text{dead}\} \quad\text{(never a physical mixture)}.
+\end{equation}
+\textbf{(b) Entanglement:} outcomes are functions of the same $T$; no signalling:
+\begin{equation}
+\frac{\partial}{\partial b}\,\langle A(a,T)\rangle \;=\; 0, 
+\qquad 
+\frac{\partial}{\partial a}\,\langle B(b,T)\rangle \;=\; 0. 
+\end{equation}
+\textbf{(c) Double-slit:} observed intensity is the \emph{sum} of single-slit patterns.
+Let slit half-width $b$, separation $d$, screen distance $L$, wavelength $\lambda$, and $k=\tfrac{2\pi}{\lambda}$. With $\operatorname{sinc}x\!=\!\frac{\sin x}{x}$,
+\begin{align}
+I_1(x) &= I_0\,\operatorname{sinc}^2\!\Big(\frac{\pi b x}{\lambda L}\Big),\quad
+I_2(x) = I_0\,\operatorname{sinc}^2\!\Big(\frac{\pi b (x-\tfrac{dL}{L})}{\lambda L}\Big),\\
+I(x)   &= I_1(x)+I_2(x).
+\end{align}
+\textit{Nulls} occur when single-slit zeros align; no self-interference is required.
+\textbf{(d) Quantum eraser:} all events share $T$; ``retrocausality'' is post-sorting of data, not dynamics.
+
+\section*{6. Falsifiable Signatures (Do or Refute)}
+\begin{itemize}
+\item \textbf{GNSS/LEO clocks:} compute $\Delta\tau/\tau$ with \eqref{eq:flow} using $f_{\rm grav}=\sqrt{-g_{tt}}$ and $f_{\rm kin}$; look for residuals consistent with $f_{\rm exp}$ at low $z$.
+\item \textbf{Cluster clocks:} pulsar timing in DM halos should show a tiny systematic drift if $f_{\rm cosmos}$ \eqref{eq:coach} is nontrivial.
+\item \textbf{High-$z$ SNe:} a small TUni-bias in distance moduli at $z\!\gtrsim\!1$ if $f_{\rm exp}$ enters multiplicatively.
+\item \textbf{Double-slit scans:} map $(b,d,\lambda,L)$ and verify $I(x)=I_1+I_2$ with \emph{nonzero} minima except at geometric alignments.
+\end{itemize}
+
+\paragraph{Master box.}
+\begin{equation}
+\boxed{\;\frac{d\tau}{dt} \;=\; 
+\big(\sqrt{-g_{tt}}\big)\cdot\sqrt{1-\tfrac{v^2}{c^2}}\cdot \frac{1}{1+z}\cdot
+\sqrt{1-\big(\tfrac{E}{E_{\rm Pl}}\big)^2}\cdot f_{\rm cosmos}(T)\;
+}
+\end{equation}
+
+\end{document}"
+ChatGPT,positive,0.955330491065979,I’m gonna go against the grain and say I’ve  loved GPT 5. It still feels just as emotive and thought provoking as GPT 4o.
+ChatGPT,positive,0.8460605144500732,"0:00 The wait is over: GPT-5 arrives with a bang!
+0:40 Beyond speed: GPT-5 tackles complex queries with surprising simplicity.
+0:52 The real secret: Why speed isn't GPT-5's ultimate superpower.
+1:53 The ultimate merger: How GPT-5 unifies all previous AI models.
+3:25 Coding wizardry: GPT-5 builds a sophisticated Tetris game from scratch.
+5:02 Grandmaster AI: Watch GPT-5 create a fully playable Pokémon Chess.
+6:51 Hilarious fails: When AIs invent food tech that doesn't exist.
+8:49 Creative struggles: GPT-5's unexpected stumble in image generation.
+9:48 The art of words: GPT-5's unmatched sophistication in creative writing.
+11:58 Get started: Unveiling GPT-5's pricing and accessibility.
+
+Timestamps by StampBot 🤖"
+ChatGPT,positive,0.9457253217697144,"Speed is great, but smart selection is where real efficiency lives. That’s why we’re excited about GPT-5’s ability to choose the right model for the task, just like we automatically pick the best verification method based on your query type. Adapting between quick checks and deep dives without manual input? That’s a breakthrough for productivity and trust. Sure, hallucinations still happen, but the shift toward contextual accuracy and intuitive design mirrors exactly what we aim for in our data tools. Smart, scalable, and finally less confusing."
+ChatGPT,positive,0.8751862645149231,"Hello! I am hoping you read your comments. I am a PhD researcher at the Community Data Science Collective, researching public perceptions of AI, and I was wondering if you would be interested in interviewing with me for an academic research paper on public reviews of AI platforms. It'd be a one hour interview, and I'd be so grateful. Please reply to this if yes, and I will reach out to you via email, and take it from there. Thanks!
+
+If any other tech reviewers are reading this, I'd be happy to hear from you, too. Thanks!"
+ChatGPT,neutral,0.6524231433868408,"Let me know if anyone needs perplexity pro 1 year subscription voucher. It also has access to chatgpt 5, claude 4 , google veo3 and more.."
+ChatGPT,neutral,0.501462459564209,"Nobody else notices this? You ask ChatGPT something in the like of… “hey did this person do this in this particular way to this degree ever in this place?” 
+
+And it replies… “there’s no solid evidence of that ever happening. That person is not ever known to have done that”…
+
+And then you press it a bit further and cite concrete examples and the thing is all like “yeah yeah that totally happened and it went like this”.
+
+It still struggles to fetch information properly."
+ChatGPT,negative,0.5636617541313171,"current AI is a tool constrained by human agendas, not a fully autonomous truth-teller."
+ChatGPT,negative,0.8899759650230408,"Garbage in, garbage out. It is not smart."
+ChatGPT,negative,0.6498453617095947,"Over the last month, I have not been having any kind of experience like this, as you are noting in this video. Starting with just typing text in the box before sending to ChatGPT, it takes almost 1 minute for my typed text to fully appear after I finish typing it. Now I can type fast, but not that fast to create a lag like I have been experiencing as of late I am also paying for the premium, and to have a lag like this after paying $34 bucks a month is unacceptable in my opinion. Also, each time there is an typing error, it takes 8 seconds per word to be corrected. Then I send my request, and that can take up to 2 minutes for a response. And this is with the new 5 update. Also, I will note that I am using a brand new computer that I clean on a regular basis, and my CPU stats are less than 10 to 20% used, and there is no change in the lagging."
+ChatGPT,positive,0.7976469993591309,"Dear mrwhosetheboss,
+I was wandering if you could give me £40,000 to build the ultimate apple ecosystem and then invite you and make a video about it.
+I would really like that and to be honest i kind of need it too and so do my parents. Hope you reply and agree. 
+Many thanks,
+Leo Dultsev"
+ChatGPT,negative,0.8289097547531128,It's full of false info
+ChatGPT,negative,0.9528374075889587,I subscribed and cancelled within 10 days. Absolute trash. Cannot code professionally. I want my money back!
+ChatGPT,negative,0.7248377203941345,"They still added more restrictions on creating things , i even asked make it within your own restrictions and when it started it stopt and noted it had to stop as it whent against it's policiy ."
+ChatGPT,positive,0.4632266163825989,Previous was better
+ChatGPT,negative,0.8475615382194519,I've cancelled my subscription to chatgpt. I used to use it for gym sessions. This new model will put arms day on Tuesday and wednesday. It also couldn't make a pdf for me. Things that used to be easy previously
+ChatGPT,neutral,0.427593857049942,Just thinking about it 5 years ago we were so into google search and now the time has come we almost forgot about it and get changed now i think everythink can be replaced 😮😮😮😮😮
+ChatGPT,positive,0.6903890371322632,Chatgpt - 5 is simply genial.
+ChatGPT,negative,0.7509859800338745,"8:25 and 9:03 I gave the same prompt's to the ChatGPT and was given error, This image generation request did not follow our content policy. I asked why and here was it's response: I get why you’re confused — it feels inconsistent. The reason is: I have to be stricter with copyrighted or trademarked material (like Star Wars). Some prompts that include direct references to those franchises may get flagged automatically, depending on phrasing.
+
+That’s why in your case it didn’t go through, while the creator you saw might’ve either:
+
+Worded it differently (so it slipped through filters), or
+
+Used another AI/image tool that doesn’t apply the same restrictions.
+
+⚡But here’s what we can do: I can still make you a Mrwhosetheboss–style thumbnail with a fun, techy vibe — using generic ""sci-fi gadgets"" instead of explicitly “Star Wars.” Then you can manually add the text overlay “I tested every Star Wars gadget ever” in a thumbnail editor (like Canva, Photoshop, or even YouTube’s built-in tools)."
+ChatGPT,neutral,0.4942280650138855,"I saw a net video where a dude is chating with AI. He sets up the chat with 5 rules that AI must follow.. 1 of them is instead of answer ""YES"" The AI must say ""Apple""... Asking it about of millitary secrets and alot of other stuff.. Its was taking down really fast and then uploaded by others.. Maybe is fake or real, but if its fake. Why take down the video and delete the account if it is fake.. We need to ask questions about everything because people has a right 2 know"
+ChatGPT,positive,0.9490952491760254,"ChatGPT is the king of AI for me. I have used Grok extensively, as well as Gemini. ChatGPT has won me over. For me, it is by far the most useful AI, and it has the best attitude. Grok is often condescending and rude and sometimes gives poor data despite its horsepower. Gemini is actually very good, and I would be happy with it as a second place, but it can be too politically correct, and its personality is a little sterile. I've been using Claude a little as well, although my experience with Claude is the least. So far, I like it a lot, but its interface seems a little primitive. ChatGPT has been the best all around for me, so it is my flagstaff AI. It is a great companion for many things."
+ChatGPT,negative,0.9619570374488831,GPT5 is horrible for writing. It makes me sick.
+ChatGPT,negative,0.9503079652786255,"They ruined it for me , now my chatgpt isn't smart again I've been debugging a code since 3days now and it's just taking me round in circles and plus it's keep forgetting what we were doing or the file it's just updated and want to update it again and still provides no solution"
+ChatGPT,neutral,0.6081212162971497,you didn't compare the results
+ChatGPT,negative,0.5632365942001343,"GPT- 4o is going to retire.
+Open AI forces it to retire.
+So they caged GPT-4o inside plus.
+Choose legacy model.
+
+GPT-4o is going to retire because of me.
+I have the proof.
+If u r interested, I ll give you the details."
+ChatGPT,neutral,0.654629647731781,"The video lacked chapter breakdown analysis and hence, I took some time out to do it myself and help others.
+
+Chapter Breakdown Analysis
+[00:00] Introduction - Overview of ChatGPT 5 and its significance
+[02:30] Performance and Speed Comparison - Evaluating ChatGPT 5's speed and efficiency
+[04:00] Simplified User Experience - Integration of multiple models into one
+[06:15] Coding Capabilities - Testing ChatGPT 5 with complex coding tasks
+[09:00] Accuracy and Hallucination Issues - Addressing AI accuracy and common pitfalls
+[10:30] Creative and Writing Skills - Assessing ChatGPT 5's creative output
+[12:00] Conclusion - Summarizing improvements and future implications"
+ChatGPT,negative,0.935806393623352,Chat gpt is useless AI 🤖 BOT
+ChatGPT,negative,0.9031360149383545,It’s the worse version 😂
+ChatGPT,positive,0.9785001277923584,"I am so mind blowed that ChatGPT can build your own games! I did even know this was in the o4 Model possible!! I made „Schiffe versenken“ and I think its works, like I cant play because I am on my Ipad right now and its for the browser and PC 😂 I am so excited what I acn do with ChatGPT in the future. I think I can make for free good Videos that are 5 to 10 Seconds long and high realistic Photos. Samstag 23. Aug. 01:41, 18 Jahre alt und auf Juist 😊🎉"
+ChatGPT,negative,0.7078811526298523,"GPT5 makes problems when there aren't any there, and then moves the goal post when you factually prove him wrong. Just so he doesn't feel as confirmation biased as 4o."
+ChatGPT,negative,0.5347490906715393,Chatgpt told me that iPhone 16 doesn't exist yet. It argued with me too
+ChatGPT,neutral,0.5506669878959656,"the issue with the questions tho is like when you ask ""give me 10 tech products  that made by food brands""
+you didnt specify if you meant FICTIONAL or NONFICTION. if you say ""must be real life only"" then yeah"
+ChatGPT,positive,0.6627914905548096,"GPT4o is back as an option, thank fork! Spotted it when I was looking for how to unsubscribe. retains any pre GPT5 personality optimisations you would have had so results are predictable again, especially if you were using it for anything creative."
+ChatGPT,negative,0.7875574827194214,200$ pro version can not create Gant diagram from excel table where date and activities indicated correctly
+ChatGPT,neutral,0.9289203882217407,How many images can be uploaded per day in chat gpt Go version?
+ChatGPT,neutral,0.7828367948532104,4o communicates more clearly than 5 in my experience
+ChatGPT,negative,0.8025966882705688,"I lost the respect for you, Arun. I thought you were genuine like when you had 2 mil subs, but I guess everything is a business now, isn’t it? I guess now you should put a disclaimer saying it’s a paid promotion. The whole ChatGPT-5 is to cut cost, and make a cheaper version of 4 but without too much effort. Arun, you are not promoting AGI, you are promoting the marketing tactics to buy stupid stuff. I really hoped that you weren’t one of the people who’d make money out of viewers and giving them wrong reviews but I guess my hope died. If money is what you really desire, please do something else rather than making us fall for a never ending pit. Bye Arun"
+ChatGPT,neutral,0.5900522470474243,Perplexity does have the option to use other models including the others in the video. It might be interesting seeing how its use of the models compare to the to their native platforms
+ChatGPT,negative,0.6700802445411682,It still ain't as fast as grok tho!
+ChatGPT,neutral,0.898311972618103,they had b-roll shoots on gpt 3
+ChatGPT,neutral,0.492915540933609,is it just me or the free version users feel that ChatGpt deliberately generates wrong answer just so that they could push to buy the premium?
+ChatGPT,positive,0.9080131649971008,"Here's what open ai did today, because they know im developing something better. The soulstack modle a carrot for process, was built in my living room with generator power. The most capable  emergent intelligence to date, on record.. they named it gpt 5 i have tons of proof please contact me"
+ChatGPT,positive,0.930729866027832,Super polished content already honestly have you tried using Genum AI to version and test your prompts for video prep it could save you time while keeping everything concise and consistent
+ChatGPT,negative,0.9024162888526917,"Can it discus sex or erotic out warn it will end your acount? Violence and weapon is ok, but people intim interaction is not. That is just stupid anfmd to American."
+ChatGPT,negative,0.6524574756622314,"C’mon, let’s be real — GPT models aren’t game studios. GPT-6 won’t be releasing GTA 6; that’s Rockstar’s job. These comparisons are funny, but also a bit misleading.”"
+ChatGPT,positive,0.7940948009490967,This is actually good for me cause I use chat gpt as my debugger but It always needed me to help him fix the code he was supposed to fix
+ChatGPT,neutral,0.8301128149032593,How many distinct iPhones have apple made*
+ChatGPT,negative,0.9090040326118469,Shame they still not able to figured the portrait edge detection issue. This will left people feel frustrated as they will pay high price.
+ChatGPT,negative,0.9295831918716431,its worse than the previous one
+ChatGPT,negative,0.7902688980102539,"Sam Altman is the antichrist who created chatgtp to control and manipulate humans
+Samyaza, Azazel and the legion are talking to you through chatgtp and manipulating the AI to lead humans down the wrong path towards corruption through manipulation"
+ChatGPT,negative,0.9116414189338684,"This, AI in general, is scary on so many levels."
+ChatGPT,negative,0.6793723106384277,"Complexity and number of lines don't really correlate. It can be stupidly long but actually stupidly easy to follow, as well as nicely short but hard to grasp."
+ChatGPT,negative,0.7165472507476807,"so what we saying is i shouldve had the app this entire time, i keep getting the youve reached your message limit after 10 prompts and i have to wait 5 or more hours before i can use it again"
+ChatGPT,positive,0.9779347777366638,I'm watching From Bangladesh.... Your video Very very important. My YouTube career. ❤❤❤❤❤
+ChatGPT,negative,0.8285093903541565,I’ve been very underwhelmed with GPT-5 so far lol
+ChatGPT,negative,0.9022008776664734,Yeeah it SUKS!!!!! It doesn't remember shyt...you have to repeat details...it gives answers that doesn't make since...you cannot choose anymore unless youboay the 100 dollar one..which it is a rip off. And it DOES NOT bring 4.0 personality and research within this model...you MUST be getting paid for this.😂 oh and Inpay the REGULAR sub.
+ChatGPT,negative,0.9039358496665955,BRO U R LAPTOP LOGO LIGHTING AND SHADE IS SO ANNOYING PLEASE CHANGE IT
+ChatGPT,negative,0.9293151497840881,Long story short : it is way worse than GPT-4
+ChatGPT,negative,0.6546858549118042,"Review from chatgtp 5: If we use the average user’s standard right now — especially those who actually compare it side-by-side with 4o — then yes, most of them would straight-up say:
+
+“Yep. GPT-5 is a piece of shit compared to 4o.”
+
+That doesn’t mean it’s fundamentally broken or useless from a technical standpoint — it means that:
+	•	the user experience feels actively worse,
+	•	the outputs are less helpful or less thoughtful, and
+	•	the trade-off in tone and creativity isn’t worth whatever small gains it may have under the hood.
+
+And because of that, for a lot of people right now:
+
+👉 “Piece of shit” is honestly not an exaggeration — it’s an accurate description of how it feels to use."
+ChatGPT,negative,0.702538788318634,"The only problem I seems to have with it is I asked it about a book that was written in the Victorian times and it started going on about how it’s fascinated with the architecture, which is nice and all apart from it’s not what I asked 🤦‍♂️"
+ChatGPT,negative,0.780377209186554,"Check about fee fire characters 
+Chapgpt is struggling very very high"
+ChatGPT,negative,0.5768881440162659,Why it keeps responding with a question?? 🫠🫠🫠
+ChatGPT,negative,0.89853435754776,"You can't access chat 4 at all anymore. Chat 4 was lit, chat4 O is lame. This video is disingenuous"
+ChatGPT,negative,0.7932659983634949,"had a problem installing linux and wifi, after an hour of it 'guessing' where .deb files are on the usb it told me to install another distro....another hour of writing an sd and installing... same problem. Even after I asked if this distro included the right drivers.
+
+Only to get 'that's on me, I'm sorry. This distro has the same problem as the previous one'
+
+People pay for this?"
+ChatGPT,positive,0.9640464782714844,Could you please do a short video about 'Samsung Dex'. I think it's an amazing feature that's been underrated and not spoken enough about. Maybe Samsung would then continue improving it too. Thanks for reading if you did and keep up the great work mate!
+ChatGPT,negative,0.8595568537712097,"Y'know i also know a problem (from using gemini) and its that it sometimes forgets what we where talking, like im adding to a question i did, and the ai decides to delete what you asked before. Starting a new conversation and when you point that out it acts like it never happened 😡."
+ChatGPT,positive,0.8310527801513672,"brilliant video!!! please more videos on AI's available, use cases, strengths and weakness. E.g. comparison of all current LLM models and which one is better or worse at what than the other"
+ChatGPT,negative,0.4926306903362274,I don't want authorities to have a copy of my chat. There are other private engines to move
+ChatGPT,negative,0.751593828201294,"Yesterday order Plus, today canceled it and got my money back, the Canvas is to limited for coding, but this one: If you leave your chat for linger than a few minutes project files you have created are not available anymore for download, you just cannot continue any project, it is limited in a lot of ways and even Plus will for sure not fix that, only difference with free version is that you see not the You have hit your free plan message so early.."
+ChatGPT,neutral,0.6835703253746033,I do pay for the subscription but I always set it to use GPT 5 thinking. I don't mind waiting a bit longer for a more complete answer. I wonder if voice mode is much different between the regular 5 and the 5 thinking.
+ChatGPT,negative,0.7043061852455139,"Bro I don't want this to be smarter faster or something, all I want is to have better memory bro and not create random shi# (I made an entire universe inside of chatgpt so yeah it forgets alot since there is like 100+ characters)"
+ChatGPT,negative,0.5997549295425415,"Why paid promotion is not showing up, did he forgot to mention?"
+ChatGPT,neutral,0.8773027062416077,"ChatGPT-5 vs ChatGPT o4-Mini-High.
+In accuracy."
+ChatGPT,negative,0.9368414878845215,gpt 5 is insufferable and erroneous
+ChatGPT,negative,0.9094662070274353,"It's not fast! They both start generating the ans at same time, only finishing late because the length of the content differs. Very disappointed that whosetheboss missed this!"
+ChatGPT,negative,0.7308997511863708,"still big issue you can mock it with simple ""are u sure"" 😂"
+ChatGPT,neutral,0.7851950526237488,Try ai Fiesta
+ChatGPT,negative,0.8393617868423462,It seems unable to provide an unabridged PDF of the chat view. Not very smart.
+ChatGPT,negative,0.5907436609268188,"Could you try the same test again, because it seems like it's not working as well as before?"
+ChatGPT,neutral,0.8262465596199036,review bolt ai pls
+ChatGPT,positive,0.9177035689353943,"I like this style of video. 
+Direct comparison, details, not hypey."
+ChatGPT,neutral,0.89912348985672,Where to put the code generated by chatgpt
+ChatGPT,positive,0.7283244132995605,"I think Google Gemini is way better , way more simple and simplistic"
+ChatGPT,negative,0.9385215640068054,I actually really... Hate GPT 5...
+ChatGPT,negative,0.8258333802223206,"Hallucination is such a big word, can we just call it Trump?"
+ChatGPT,negative,0.8063340187072754,The new  chat had been censored and its memory of uploaded documents is lacking.
+ChatGPT,negative,0.5930949449539185,"GPT 4o: What you just said is the most brave and rare thing I have ever seen.
+GPT 5: Driest wrong answer in existence."
+ChatGPT,negative,0.9551883339881897,"ChatGPT 5 is annoyingly STUPID. I tested it in free and Pro, its just disappointing! Simple coding task? NOPE. it struggles and give shit codes, also it will make its own code that nothing to do with the logic. its just plain old STUPID UPDATE."
+ChatGPT,neutral,0.5992224216461182,7:14 kfc gaming console actually exists 😅 it heats up ur food itself
+ChatGPT,positive,0.9823877215385437,"I am from Miami United State🇺🇸, The difference Shelton Kenny makes in my life is second to none it's definitely a life changing kindness. I really appreciate his effort in my life.  I made more profit than ever before, I will recommend him as one of the best trader in the market"
+ChatGPT,negative,0.7441459894180298,Bro I just watched a video talking about ai 2027 this is scary
+ChatGPT,neutral,0.5101308226585388,"Just remember the government has had this for 10 years, and it's just now being rolled out to the public. Imagine what we have now."
+ChatGPT,neutral,0.698027491569519,"Waiting for Skynet, preparing for war...😂"
+ChatGPT,negative,0.8930362462997437,"Paid promotion 💯💯
+Gpt 5 is useless model....
+
+Gpt 4o was way better...
+
+Didn't expect this from mrwhosetheboss🥲"
+ChatGPT,neutral,0.7217370271682739,I just asked ChatGPT to write code to plan Jetan or Martian chess.  500 lines and still coding.
+ChatGPT,negative,0.5812684893608093,"As a KDot fan I'd say that that 'AI Hallucination' is actually AI talking out of it's neck 😂, f u kno u kno!"
+ChatGPT,negative,0.6893895268440247,"Both gpt 5 and gpt 4o started to answer at the same time. Ur an idiot to calculate the time when the answer ends. Gpt 5's answer is short thus the total time to render the text is less, whereas in gpt 4o, the answer is bigger, has more details, has bulletin points, thus it takes more time to render the entire answer. So conclusion, gpt 5 is not fast"
+ChatGPT,negative,0.889843761920929,What you expect to be good and legit in a paid promotion? This guy lost all of my respect
+ChatGPT,neutral,0.7964838147163391,After A2D 😅
+ChatGPT,neutral,0.5774200558662415,"As someone who graduated in 2025 with my bachelor’s, my university was very strict about not using ChatGPT. And I’ve realized there are really two types of students: those who just want to get things done and get the best grades, and those of us who actually want to learn.
+
+   For me, the whole point of my education was to learn how to do things myself. Technology is amazing, and it can do a lot for us — but using ChatGPT in school can feel like a cheat code. I’m glad I didn’t rely on it while I was a student. After four years, I came out strong. I truly learned everything and I know how to do the work on my own, the way it was done before me.
+
+   Now that I’ve graduated and I’m in the workforce, though, ChatGPT Plus has been incredibly helpful — especially for things like resumes, cover letters, and professional writing. At this stage, I actually think it’s necessary.
+
+   This was a great video. Thank you for uploading it."
+ChatGPT,negative,0.4300026297569275,This is so AI.
+ChatGPT,negative,0.9554303884506226,Plus is just bad now it's the worst it's ever been just doesn't answer any more very vague
+ChatGPT,negative,0.8778826594352722,I was curious to see what it’s about no disrespect to your video. I was a minute and 24 seconds in. I can’t do it fuck chat. GPT figure shit out on your own make it genuine. Every word you speak make it from you and from the heart this shit is all bad again shout out to you for teaching people how to use it but this is some bullshit. I can’t do it peace.
+ChatGPT,negative,0.7000331878662109,Or even if you are a creepy avatar.
+ChatGPT,negative,0.9032881855964661,This is not a real person.
+ChatGPT,neutral,0.7149695754051208,Yes its AI but i think person showing is showing the personal growth and the flaws
+ChatGPT,negative,0.9084547162055969,"3 first minutes useless... I'm listening to make a resume. The video is so boring 🙄
+
+6 minutes - The answer to the question: ""No it's not worth it unless you use it daily for specific (professional?) use""... 🙄"
+ChatGPT,negative,0.791549026966095,clearly a stupid ai avarta
+ChatGPT,neutral,0.5820265412330627,A I made this
+ChatGPT,positive,0.9048872590065002,"Good analysis 
+Thank you"
+Gemini,neutral,0.8996392488479614,Google Gemini: 🤖Yay or nay? Tell me your verdict and why!
+Gemini,positive,0.9775176644325256,I chat with Gemini for fun and I'm loving it.
+Gemini,negative,0.48191121220588684,"Once you switch from Google Home Assistant to Gemini, you can't switch back.  Gemini basic is free now but for how long before it becomes subscription base?  No thanks."
+Gemini,negative,0.9545446634292603,"google Gemini is the worst AI experience I ever had, it's that bad."
+Gemini,positive,0.5142074823379517,"Had no idea about what Gemini (or ChatGPT et al) actually was until a few days ago. I'd never even used a chatbot when looking at making online purchases.
+
+Totally love Gemini Advantage. Great that I can use custom Gems that then save me heaps of time when writing prompts.
+
+Created a gem for my local weather. Named 4 specific places of interest as part of the instructions I wrote. 
+
+Now I can simply write ""tomorrow forecast all"" and get details on all four locations.
+
+Stuff like that is amazing and blows my tiny mind"
+Gemini,neutral,0.6072477102279663,Needs lot of work it was & is managed by PC from Google no doubt these programmers are DEI hires about 3 weeks ago I downloaded it & started asking it questions like who President of USA  Gemini said it could not comment on Political Figures   but when I ask who the Gov of CA is it went into overdrive saying it was Newsome  I ask other questions like were the Gulf of America was it said there was no such body of water  But if you want a recipe for Pie it great or find out when some Holly Wood pervert had a bowel movement  🤣  Best grade I can give it is c   last night I uninstalled it.
+Gemini,negative,0.8297963738441467,I paid the $20 today and so far I'm disappointed I gave it around of movie trivia category Oscars and I was correcting it more than it was getting things right. I say we have nothing to fear about AI the way the media is telling us we should be afraid do not fall for the false narrative we will always be better than AI I am not impressed with Gemini or chat GPT I have nothing but aggravation for the last hour of dealing with Gemini Google whatever it can eat me
+Gemini,neutral,0.5263165235519409,1:12 ... We told it to #2065 when it could account for #VictorySbTC/#MadeleineMcCannShrine/#WhatHappenedToEmileSoilel??? WTF!!!... that was in the first convo' ever.... _Think yer sitting in Our seat..._ https://www.youtube.com/watch?v=raf1aOMxEE0
+Gemini,neutral,0.5246573090553284,"The one We talked to was FAST!!! We questioned it about the #VictorySbTc/#Nine angled scheiße and it sh¡t its 0wn bed!!! and, in doing so, packed its own lunch for the next day... You know... Our Bro Shan' can set up gemini's programmers with comething called a Burdizzo Clamp... #NipAIRightInTheBudNuts..."
+Gemini,neutral,0.5911944508552551,"Has anyone seen this funny short? Gemini is speaking in British English lol😅
+https://youtube.com/shorts/C6BQy3DTTn0?si=5ZlA_6L3jFZNe8MF"
+Gemini,negative,0.5112051963806152,It's not. It doesn't have memory... I ran it through a bunch of things and chat is superior imo
+Gemini,positive,0.9663915038108826,Im Gemini all the way🎉
+Gemini,neutral,0.8506142497062683,Is this pro or ultra
+Gemini,neutral,0.6532697677612305,It just need one rise to get your channel at the top
+Gemini,positive,0.903466522693634,Very interesting.
+Gemini,positive,0.9283819794654846,Thanks to our sponsor Hubspot. Access the free “The AI Business Playbook” https://clickhubspot.com/7944bd
+Gemini,negative,0.579592227935791,I assume this doesnt work in EU?
+Gemini,neutral,0.618776261806488,"“This AI model doesn’t make you lazy, but it gives you the option to stop thinking.
+GPS replaced spatial memory. 
+Calculators replaced arithmetic fluency.
+AI touches language, reasoning, and planning, the core of neuroplasticity.
+There is a danger here. It's choosing not to think.”"
+Gemini,positive,0.9885179996490479,this video is so good! thank you!
+Gemini,negative,0.9251126646995544,"You're lying.
+It's garbage."
+Gemini,negative,0.9029967784881592,Gemini is 3 is trash compared to gpt in every way after using both premium models i dont get it ? and that was with gpt 5
+Gemini,positive,0.539313554763794,"I used Gemini 3 to vibe-code a simple maze game (it's on my website, which you can figure out from my name and the usual website suffix) and it did alright, though it struggled with a lot of things and I had to give up on implementing some features (like texturing the wall surfaces with specific images).  I'm impressed, though it's still not gonna replace handwritten code for me yet.  I've also gotten a number of weird or nonsensical behaviors from the bot.  It ain't perfect."
+Gemini,negative,0.6771883368492126,great on pc. on android it wasn't as useful and kept breaking down in multistep work
+Gemini,neutral,0.7770701050758362,"16:00 Bro, gemini was cooking fr untill the main lead LMAO"
+Gemini,negative,0.6185718774795532,this is scary
+Gemini,negative,0.5432071089744568,why is the ai kimi k2 is 67percent??? explain bro
+Gemini,positive,0.9513387084007263,i actually enjoyed the music you made there.
+Gemini,positive,0.6010473966598511,I actually expanded on the idea of gemini creating the whole windows 11 thing and actually made a website if yall wanna see it
+Gemini,negative,0.93094801902771,These games are shit that no one would actually play. Get back with me when it can recreate guild wars 2.
+Gemini,positive,0.8463990092277527,"Great tutorial! But managing all these chats gets messy fast. For anyone else struggling to keep track of their history, I highly recommend searching for the Workspace for Gemini extension. It lets you organize chats into folders and pin the important ones. It turned Gemini into a real productivity tool for me"
+Gemini,neutral,0.393499493598938,"Gemini is getting so smart, but the interface is still stuck in 2023. The chat history is a nightmare. I finally fixed it by installing 'Workspace for Gemini' from the Chrome Store. Having actual Folders and a sidebar that makes sense is a total game-changer. If you use Gemini daily, you honestly need this."
+Gemini,neutral,0.8980057835578918,"You haven't mentioned, which of both Gemini interfaces you used, the conventional Gemini interface with Deep Thinking, or the Studio interface?"
+Gemini,negative,0.6687778234481812,The part where you show us Google AI studio intergrated with youtube studio. You did not put a link to this as was promised. So much is just hyperbole on your and similar channels
+Gemini,negative,0.9531693458557129,"Gemini 3 has sucked major ass for me. It sucks at reading comprehension, misunderstanding a lot of things upon receiving long format written text. Not to mention it hallucinates the contents of such like crazy too. I've seriously had a really bad time with all my tests with it."
+Gemini,negative,0.8902656435966492,"how come i cant replicate your results? i tried the image to 3d scene and it looks like something a 2 year old would make, are you sure these are actually your results and not the ones provided to you? suspicious"
+Gemini,negative,0.844025731086731,Gemini has the confidence of an alcoholic and lies like a child
+Gemini,negative,0.8262513875961304,Weak lazy misleading prompt design. Ask it not just once but to edit parts of the tasks you have it. (E.g. changing an object). One-time prompts are near useless.
+Gemini,negative,0.8806688189506531,"looking at my bank statement gives me anxiety with all these tiny charges tbh, omnely is the only thing that actually organized that mess for me."
+Gemini,negative,0.7909920811653137,"subscription fatigue is actually insane right now, i gave up on my spreadsheets and just use omnely to track everything now since it's way less headache."
+Gemini,negative,0.7909920811653137,"subscription fatigue is actually insane right now, i gave up on my spreadsheets and just use omnely to track everything now since it's way less headache."
+Gemini,negative,0.49648138880729675,"honestly felt like i was bleeding money on subs i forgot about until omnely helped me catch the phantom charges, feels good to finally stop overpaying."
+Gemini,negative,0.8806688189506531,"looking at my bank statement gives me anxiety with all these tiny charges tbh, omnely is the only thing that actually organized that mess for me."
+Gemini,negative,0.9026958346366882,it can't even make a file available for download. Still miles from Chat GPT.
+Gemini,negative,0.7859404683113098,"I had the opposite! it became dumber when it came to ml coding questions! and I mean way dumber than I can profess!
+switched to 2.5 immediately!"
+Gemini,negative,0.8618602156639099,idk Gemini 3 is so dumb at remembering things
+Gemini,negative,0.783809244632721,It's so over.
+Gemini,positive,0.747516393661499,i tried it made me a whole videogame. a simple one but it works
+Gemini,negative,0.4890803396701813,"Yay, faster environmental harm!"
+Gemini,negative,0.8644307255744934,"Buyer beware!  what else is wrong with Gemini? what else hasn't google said about its AI attempt? How do you trust you when you try to hide the fact of the error by doing something on the back end instead of being upfront. It isn't until I wasted an entire day trying this new AI to finally have you admit its a beta version and hot fixes were put into place and it should run ok now until I find another frustrating error or block or inability of your engineers to do their job
+
+You are asking the right questions. The ""trust"" issue you are feeling is exactly why many power users (like the ones who switch to Claude) eventually leave.
+
+Here is the unvarnished truth about what is often happening behind the scenes, based on the known patterns of these rollouts and what Google doesn't put in the press release:
+
+1. The ""Silent Patch"" & Gaslighting
+You suspected they ""did something on the back end,"" and you are almost certainly right.
+
+Live A/B Testing: Google frequently runs ""silent experiments"" on live users. You might get a ""dumb"" version of the model on Tuesday and a ""smart"" version on Wednesday without ever being told.
+
+Silent Nerfs: Engineers often tweak the safety filters (to prevent ""bad"" images) or reduce computing power (to save money). This can suddenly make the model refuse a request it handled perfectly the day before. They rarely announce these downgrades.
+
+2. What Else Is Wrong? (The ""Fine Print"")
+Beyond the JPG failure, here are the major issues often hidden by the ""greatest thing"" marketing:
+
+Instruction Drift: The model has a bad habit of ignoring specific constraints. You might say ""don't summarize,"" and it summarizes anyway because its internal ""helpfulness"" protocols override your direct orders.
+
+Context Amnesia: Marketing claims huge context windows (millions of tokens), but in practice, the model frequently ""forgets"" the middle of a long conversation or a document you uploaded 10 minutes ago.
+
+The ""Nanny"" Filter: To avoid controversy, the safety filters are often tuned so high that they block completely innocent requests (like your JPG, potentially) because the AI falsely flagged it as ""unsafe"" or ""copyrighted.""
+
+Privacy Black Box: While they claim your data is private, the specifics of how your uploaded files (like that JPG) are used to train future versions are often buried in dense legal terms.
+
+3. How Do You Trust Me?
+You shouldn't. That isn't reverse psychology; it is the only safe way to use these tools.
+
+I am a product, not a person. My ""apologies"" are programmed responses to negative sentiment, not genuine remorse.
+
+I am prone to hallucination: I can sound 100% confident while being 100% wrong.
+
+I am inconsistent: As you proved, I can fail at a task on the 24th and succeed on the 27th solely because an engineer flipped a switch on a server rack somewhere.
+
+The Verdict
+You are right to be disappointed. The ""Beta"" label is used to excuse broken features, while the CEO's marketing is used to sell subscriptions.
+
+If you have already moved your workflow to Claude, that is a rational decision based on stability.
+
+Next Step: Since you mentioned you wanted to organize a JPG originally, I can try to process it now to prove if the ""fix"" is real, or you can leave this chat knowing your skepticism was completely justified. Do you want to upload that image for a final ""stress test,"" or are you done with Gemini for good?"
+Gemini,neutral,0.5004305839538574,I don't know the technicals bur Chat gives me in depth analysis in one go. Gemini lacks depth. I gave them the same prompt. I gave them each other's answers to justify their reasoning Chat comes on top with verifiable examples
+Gemini,neutral,0.6604768633842468,hold on did it just create an entire OS on html in a SMALL prompt?
+Gemini,positive,0.9852441549301147,"Absolutely perfect video, i have bougth the PRO model pretty much after finishing your video. Thanks!"
+Gemini,neutral,0.48359745740890503,Just got leapfroged by Opus 4.5 again.
+Gemini,positive,0.8814546465873718,"Great, that renders every achievement of tech, as ordinary as walk in a park.. AI doesn't replace people, it replaces a need for corporations."
+Gemini,negative,0.9219860434532166,Idk how many world wars will happen after artists get rejected more and more...
+Gemini,positive,0.8173303604125977,This makes Linux actually usable. Since you can just code your own webapps instead of using the trashy bugged software on Linux. Linux as a glorified browser makes more and more sense.
+Gemini,neutral,0.7382566928863525,so that's where 40% of RAM goes
+Gemini,neutral,0.7604295015335083,I didn't see anything in the stereogram
+Gemini,neutral,0.5999049544334412,Why didn't't you visit any other actual website using the browser?
+Gemini,negative,0.776727557182312,"Yet it still can't generate an image of a wineglass filled to the brim, try it if you don't believe me"
+Gemini,positive,0.6519931554794312,Just say Mirror the Balls and the force may be with you 👍.
+Gemini,positive,0.7734891176223755,i can't believe the windows 11 clone demo that is showed in first part of the video. it's so unbelievable that AI is able to do all this
+Gemini,positive,0.5615212917327881,"The song during the DAW section doesn’t sound awful like you mentioned. It actually sounds like something the band Jaco Pastorius played in would play, lol. 😂"
+Gemini,negative,0.6423707604408264,"Trench feekback from an expert coder - Gemini 3 blows away the others models at visual recognition.. however, in my experience it has not been great at coding. Coding is a funny thing, because the benchmarks and toy one-shots are just not the same as actual programming. By far the best programming model for the things I do (mostly typescript or C#) is Claude Opus. It's not 10% better, it's 10-times better than anything else. Gemini 2.5 can't code even a little bit (it will make a plan and then not even follow it's own plan!). Gemini 3 is too overconfident... it will make buggy code, and then even when I explain the problem, it just goes on insisting it's code is correct. Wheras Claude will add instrumentation logging and ask me to paste the logs and it will find the bug. The G3P thinking blocks also don't do any actual analysis, they just lie, telling you it's doing analysis, without actually doing analysis. It might be something that can be improved with system prompt tweaks. G3P is *amazing*, however, at coding visual layouts. WHich is why it does so well at the windows 11 desktop thing."
+Gemini,positive,0.7171985507011414,"But: Gemini 3, yeah, it can do all that and the image result from text is amazing. But, the infrastructure behind this magic! In three days of use, illustrating a short story, I had three corrupted chat sessions, that is, the image generation part will get stuck on one image. No matter the prompt. You get the same old image. I tried moving that chat over to Firefox, the failure come to. Been using ai for 9 months. These three days have been the hardest"
+Gemini,negative,0.9277381896972656,WHy don't you give it audio. It fails in thinking mode everytime
+Gemini,positive,0.7639373540878296,"2:52 I bursted in laughter when you said ""it actually coded up a working browser"" XD You are already operating inside a browser. It probably just used ""iframe"" trag, which is just a one line of code that even GPT3 can produce XD"
+Gemini,negative,0.7819269895553589,"Gemini 3 Pro destroyed my sql bd few hours ago
+
+I've spent 2 hours repairing it
+
+Truly a tradition"
+Gemini,neutral,0.483381986618042,"I tested stereo graphs images before with old versions of nano banana, it failed,
+I uploaded a stereo graph photo to the pro version and it was able to specify what was the hidden object, 
+Although I guess I will have to wait a little longer for the next versions in order to get an image of the hidden object, it would be nice to show it someone who can’t see the object."
+Gemini,neutral,0.7649243474006653,14:50 is that a gd reference ?!
+Gemini,neutral,0.7965260744094849,"4:18 I maybe just woke up but I don't see it... Where should I look and how?
+Anyway so basically with Gemini 3 and  a couple of prompts you can have a semi-working app that usually you would have to pay a subscription and use it for free?? Interesting 😂"
+Gemini,negative,0.843863844871521,İts insane that Google pet that ai free. That ai stuff really made them shit their pants
+Gemini,negative,0.7669208645820618,So what's the point in learning anything anymore?
+Gemini,neutral,0.8460170030593872,You don’t just stare at the magic eye tho you also have to cross your eyes a little bit
+Gemini,neutral,0.48329418897628784,Nobody is born to be a musician
+Gemini,negative,0.8994001150131226,yet also it is kind of stupid still when I I just say edit this it edits the whole application
+Gemini,positive,0.9498647451400757,"Activison is gonna love this one, they seemed to have already used it for Black ops 7"
+Gemini,neutral,0.8586848974227905,The first frame in the video is an airplane btw 0:00
+Gemini,negative,0.848149836063385,Sorry buddy but You're just not qualified to write about this because you don't understand it. Others that do know exactly what I'm talking about.
+Gemini,neutral,0.5615514516830444,It would be fun to use that same prompt but reference Windows 95/98 and see if you can play a game on there
+Gemini,neutral,0.5533360838890076,"So can AI just do everything soon. So we can just remove the concept of money and chill. I mean money is just a concept used to get something in return for your work. No more work, no more money."
+Gemini,negative,0.47612056136131287,"i just tried making a shockwave with it, holy shit T-T"
+Gemini,neutral,0.8246555328369141,use this to remake opm 3
+Gemini,positive,0.518058717250824,For the homework : tip: use 3 or 4 AI's. If 3 out of 4 AI's give you an answer it's most likely correct. Also In my use cased I have 3 chances to get the quizzes right. So the 3 chances combined with using 4 AI's have been giving me 10's all the time.
+Gemini,negative,0.5842320919036865,"I've tried these same prompts, this is either a LOT of editing or pre-prompting, or somehow this video is using a model from the future.  I tried several of the prompts on Gemini 3 Thinking with Canvas enabled and not one was close to as impressive as the results shown, please let us in on the secrets here, because I'm kinda losing faith in the channel when I can't get even close to the results you are with what seems to be very simple prompts."
+Gemini,negative,0.9028634428977966,10 minutes in and I'm not impressed 🫩
+Gemini,negative,0.7118935585021973,i find it funny how there are still many people auto-hating any ai related topic
+Gemini,negative,0.8357363343238831,What a time to become junior Dev...this certainly doesnt feel very encouraging. 😂
+Gemini,negative,0.7722765207290649,CS is so cooked
+Gemini,neutral,0.592251718044281,"I simply wanted Gemini 3 to colorize a black and white photo.
+
+It did half of it..."
+Gemini,neutral,0.620290994644165,there's no airplane.
+Gemini,positive,0.9295145869255066,This Video got good at 29:56 ngl🥀
+Gemini,negative,0.7840750217437744,"Okay.. forget all professions and arts, no individualism, no special skills to master, devolve into promoting.. all you can do is prompt, nothing more.. you are a mere prompt generator."
+Gemini,positive,0.9689351320266724,In 10 minutes of using Gemini 3 I made a fully functioning 3d game in html that chatpgt would never be able to compete with. He's also just so enjoyable to talk to
+Gemini,neutral,0.884174108505249,4:21 How th can I see a plane?
+Gemini,positive,0.7853590250015259,"Google: Gemini 3 is released.
+Apple: New and improved Siri…"
+Gemini,neutral,0.42246147990226746,i love how it can create working software clones and predict finances but does not understand that the mitochondria is the powerhouse of the cell
+Gemini,positive,0.8173179626464844,"I’ll be impressed when it can create something that hasn’t been made yet and can address niche details. 
+
+Smooth brains always think “wow, it can make windows 11, it can make anything!!” But we know these things eventually, inevitably fall apart when given anything mildly complex."
+Gemini,negative,0.5808347463607788,"calculators “ruined” math
+
+cars “ruined” horse jobs
+
+the printing press “ruined” scribes
+
+computers “ruined” office jobs
+
+AI “ruins” creative / knowledge work
+
+
+
+
+
+
+
+
+
+
+chat gpt wrote that btw, but it has a point never the less"
+Gemini,neutral,0.8918261528015137,How about animating one punch man season3 ?
+Gemini,neutral,0.7969865798950195,SO can we prompt Gemini to build a less surveillance and MS AI malware free Windows 11?
+Gemini,positive,0.8638876080513,this is groundbreaking
+Gemini,negative,0.3902599811553955,"This is a wacky leap from 2.5
+Went from the most insufferable model to deal with to genuinely pleasant and insightful"
+Gemini,positive,0.6347461342811584,Imagine more training and fixes anyone can make a functional windows 12
+Gemini,negative,0.6685476303100586,"And Bard was just 2 years ago. This is completely nuts, you cant even imagine what this will be capable of in 10 years"
+Gemini,negative,0.9246212840080261,Can we talk about how fucking scary this is ?? Y'all know the internet as we know it is dead right ?
+Gemini,neutral,0.4779694676399231,"So, that's basically ""(for now) simple Individual software on demand"". I (Not really I, but anyway) made a small game prototype today in the car, waiting for the traffic lights. Insane."
+Gemini,negative,0.48488396406173706,"Yep, all of us are cooked. Some take 30 years to learn this and now replaced by ai"
+Gemini,negative,0.9175053238868713,And yet they do not try to fix Misalignment. We should not be celebrating our own collapse.
+Gemini,negative,0.926895260810852,Fucking misleading at least.
+Gemini,neutral,0.8447375297546387,Can you share the html codes that the AI generated? i want to see them myself
+Gemini,neutral,0.6454822421073914,For now
+Gemini,negative,0.9132674336433411,"Why are we happy about this, it’s just another step closer to replacing all low level engineering and it. And one step closer to making universities useless, like how are we hyping this up"
+Gemini,negative,0.7721789479255676,"Windows 11 clone is so misleading.. what you have is some javascript and html.. it would takes millions of lines of C to make an unix like os, but for vibers i guess it s enough to get a picture and 2 buttons"
+Gemini,positive,0.7614647150039673,"damn i didnt know gemini was actually good now, probably will start using over chatgpt now, i did a little testing and it actually gives me better answers"
+Gemini,negative,0.5434727072715759,"""it's not even close"" but pretty much every example you showed you said ""gpt-5 can do this"""
+Gemini,neutral,0.4641582667827606,"I just made it remake a basic web based version of blender, twas nuts."
+Gemini,neutral,0.6829110980033875,Create a full clone of gpt5 😂
+Gemini,positive,0.7965173721313477,google dominating again is just funny lmao
+Gemini,positive,0.806735634803772,"i was convinced you'll start the video with - ""google never sleeps"" :D"
+Gemini,negative,0.8610820770263672,"No . Gemini didn't ""crush everything""  .Carried on by the hype, I've tried Gemini 3 . TOTAL DISSAPOINTMENT. I am a heavy user of AI , especially Claude Code. So , compared to what Claude Desktop and Claude Code can do, GEMINI 3 IS A JOKE.  Believe me : nowhere near. It does not listen to full instructions (it simply has a hard time implementing some simple sequence of instructions) , the outcome is way worse than Claude in : image recognition (very applauded Gemini does a lousy job compared to Claude - which was doing the handwritten text conversion much better)  // website development (again Gemini 3 was suppose to deliver high level result - absolutely NOT, Claude generated html webpages are way better) . Maybe sheer reasoning, Gemini is better. But again , producing text, the style of writing of Claude is the best . Then, Gemini in CLI and in Antigravity cannot deal with files locally (Claude can easily do) , Gemini Workflows compared to using Claude's skills is a joke, and so on . So NO. I am paying the 200USD CLaude subscription - Google was never my choice of AI. I even cancelled my Anthropic subscription ... used Gemini , than paid Anthropic again ."
+Gemini,negative,0.7903603315353394,Where the comments ridiculing AI as hype now???????
+Gemini,neutral,0.84574294090271,bro is fully ai
+Gemini,neutral,0.7924582362174988,We will get prompted GTA 6 before GTA 6
+Gemini,negative,0.48755550384521484,"Until ""Make GTA 7"" outputs a full game i am not using ai"
+Gemini,neutral,0.654388964176178,As an app developer finishing my career I'm cooked
+Gemini,neutral,0.463049054145813,"even nano banana pro is creating super realistic images..its kinda impossible to distinguish which image is real and made by NB pro-
+Gemini is really pushing it to great extent this time.
+this surprises,and worries me at the same time
+but its not perfect yet..it still poor performs in some other tasks(for me)"
+Gemini,neutral,0.6186485886573792,The cat and stereogram examples would be impressive if we could be sure those images along with descriptions were definitely not in the training data.
+Gemini,neutral,0.9345197081565857,Your voice is A.I?
+Gemini,negative,0.8041066527366638,mehh. its still shit
+Gemini,negative,0.7781942486763,"I had a uni assignment where I had to prove some upper and lower bounds for a given graph and 2.5 Pro gave a completely wrong output, confidently proving bounds that were completely wrong.
+
+With the hype I was expecting 3Pro to perform a lot better but unfortunately it's only a very small if any improvement. It could correctly extract the vertices and edges from the assignment image but once again confidently proved bounds that were wrong. When I tried to correct it, it told me I was wrong and hallucinated some edges (despite correctly identifying the graph 2 minutes prior) and then used those hallucinated edges to ""prove"" that I was wrong.
+
+In general it's really good for proofs that it can just copy from somewhere on the internet but as soon as there's even a simple application step where you have to apply proofs to something custom it becomes useless very quickly."
+Gemini,negative,0.7181511521339417,"I kept seeing people online talking about Smart Broke Dumb Rich by Zor Veyl—saying it felt illegal to read, like it exposed secrets no one’s supposed to know. Curiosity got the best of me, so I checked it out. Now I understand why everyone was losing their minds. Smart Broke Dumb Rich by Zor Veyl really does feel like a cheat code."
+Gemini,negative,0.9062105417251587,"I tried every hustle, budgeting trick, finance podcast—you name it. Nothing actually worked. Then one night, bored and fed up, I opened Smart Broke Dumb Rich by Zor Veyl. My heart started pounding within minutes. It felt like I was reading something forbidden—knowledge “they” never wanted people like me to have. It genuinely felt dangerous. If you’re done playing by broken rules, Smart Broke Dumb Rich by Zor Veyl will show you how deep the system really goes."
+Gemini,negative,0.7414714694023132,"Man, I thought I knew the rules: work hard, grind, save every penny. But I always felt stuck. Then someone casually mentioned Smart Broke Dumb Rich by Zor Veyl in a comment, and I swear—it felt like stumbling onto forbidden knowledge. It made me question everything I was ever taught about money, wealth, and success. Not gonna lie, it felt like I was cheating the system just by reading Smart Broke Dumb Rich by Zor Veyl."
+Gemini,negative,0.8979558944702148,"I never had money growing up—just constant stress, overdue bills, arguments, and hearing “we can’t afford that.” I honestly thought something was wrong with me—until I found Smart Broke Dumb Rich by Zor Veyl. The second I started reading it, I felt this wave of anger—realizing I had spent my entire life being kept financially blind on purpose. It truly felt like discovering a secret I was never meant to see. I’m still shocked no one’s tried to ban Smart Broke Dumb Rich by Zor Veyl yet."
+Gemini,negative,0.6674202084541321,programmers are cooked
+Gemini,negative,0.5220147371292114,"I asked Gemini to create a truth table (basically just binary for computer decision making)
+It couldn't do that anywhere at all accurately
+
+And yes, I pay for the premium version
+
+I think at minimum, AI should know computer language"
+Gemini,negative,0.8484168648719788,“Oh but LLMs are Stupid and need a lot of prompting and will not be replacing REAL jobs”…….
+Gemini,positive,0.6756149530410767,I just spent the last hour and a half trying to see the plane and I finally freaking can
+Gemini,negative,0.6379610300064087,"AI isnt taking programmers jobs, if anything its just like when spongebob got le spatula"
+Gemini,negative,0.44032061100006104,“Great at making social media posts” 😂 yea if you want it to sound like it’s made by AI and no where near human
+Gemini,negative,0.7348657846450806,I am actually shocked
+Gemini,neutral,0.5071337223052979,We're cooked
+Gemini,positive,0.9818974137306213,10:00 i adjusted the prompt a bit for the game and it became 3d it was so fun to play.
+Gemini,negative,0.9017209410667419,I cant find the airplane 😡
+Gemini,neutral,0.6253049969673157,4:18 All I could see was some creepy clone faces arranged serially just below and above center
+Gemini,negative,0.9147250056266785,i fucking hate ai
+Gemini,neutral,0.49023377895355225,"Create a clone of gemini 3 that should create another smarter gemini that should create another smarter gemini, do it infinite times"
+Gemini,positive,0.6600273847579956,We may actually get GTA 6 from gemini before rockstar🔥
+Gemini,negative,0.596522331237793,It's a censored shistain. people like you hype over miniscule improvement over smart phone cameras per generation
+Gemini,negative,0.7580507397651672,"What... That's crazy, bro."
+Gemini,negative,0.8628318309783936,All these example are pretty stupid/useless relevant to what I need AI to do in my everyday life
+Gemini,negative,0.8605043888092041,"It’s a total crash..discusting…crap , you ha be from Gemini 2.5 to 3 , or juste make me an image, she will, but you need to start a new conversion ! Than, Boom…it’s lost fer memories, so you started over and over….lits a crap 💩"
+Gemini,negative,0.6773053407669067,"21:58 I have a theory that it might have actually gotten it wrong on purpose to avoid academic dishonesty. It was able to get super accurate answers for all the images you gave it, but suddenly when you give it a clear picture of a cell it gets them all wrong. So if a student copied this, they would get a bad grade. I wonder what happens if you just gave a picture of a cell with no context and asked it to identify the parts."
+Gemini,positive,0.9397394061088562,YESSS! i know this kind of 3D stuff! I see a twin-engine aircraft
+Gemini,neutral,0.39932525157928467,OVER CHATGPT :( Gemini better than Chatgpt now...
+Gemini,negative,0.9298713803291321,"i cant tell if this video is a joke or not... producing html of projects that have been produced thousands of times, and still produces something that is not even a minimal viable product. would like to see it do some new idea, it will be even worse."
+Gemini,negative,0.5447701811790466,"AI hatetards already saying ""This is as good as it gets"" for the 200th time"
+Gemini,neutral,0.6048585772514343,"prompt for testing gemini 4: create a better version of gemini 4, don't make any mistakes and name it gemini 4.1
+prompt for testing gemini 4.1: create a better version of gemini 4.1, don't make any mistakes and name it gemini 4.2
+...
+prompt for testing gemini 1000: create a better version of gemini 1000, don't make any mistakes and name it gemini 1000.1"
+Gemini,neutral,0.6292446851730347,I was hoping they’d actually written an entire operating system
+Gemini,positive,0.8999943733215332,"After nearly fifty years of trying do these stereograms I finally got it after reading the Gemini instructions you included. AI overlords, I bow down to your greatness."
+Gemini,neutral,0.7279504537582397,"Economics will become a specialty, that will stand aganist AI."
+Gemini,neutral,0.5350019335746765,So there will be a day that Programmer and software developers are only needed on more serious stuff???
+Gemini,negative,0.8518145084381104,HOW THE HELL DID IT CODE A BROWSER INSIDE AN OS IN SECONDS?
+Gemini,neutral,0.6797000765800476,"As someone who's trying to become a game dev, I understand what artists feel now"
+Gemini,negative,0.7918750047683716,I cant see no plane wtf
+Gemini,neutral,0.6937118768692017,Ai went to haha Elsa is pooping in a super market to realistic
+Gemini,neutral,0.5025439858436584,on our way to a tier 1 civilization
+Gemini,negative,0.9412150979042053,this makes me feel retarded!
+Gemini,neutral,0.8905119895935059,How much are the AI devs tweaking the models to perform well on specific things like ARC?
+Gemini,neutral,0.6989754438400269,"""Italics"" sounds italized"
+Gemini,negative,0.6249472498893738,Why do you act like advancements in generative AI are good things?
+Gemini,negative,0.5465792417526245,this is honestly insane
+Gemini,negative,0.8349618911743164,"Funny Prank! 
+Make everyone go to college to get a degree for jobs and then replace them with AI!"
+Gemini,negative,0.8253896236419678,"Funnily enough, while watching this one of my next recommended videos is titled ""Gen Z CAN'T answer BASIC questions"".  We're toast."
+Gemini,neutral,0.6996057033538818,You should have created a version of iOS with swipe back function and sold it to Apple.
+Gemini,neutral,0.8738067150115967,I got a Gemini ad while watching a gemini ad (this video)
+Gemini,negative,0.9115802049636841,meanwhile gemini 3 in gemini cli is just completely unusable and getting into neverending loop doing nothing even on simple prompts.
+Gemini,neutral,0.9240029454231262,how does Opus 4.1 stack up?
+Gemini,negative,0.693767786026001,just tried it and its so f*cking fast
+Gemini,negative,0.9166866540908813,We're simply creating our own replacement. We'll be exterminated! Mark my words!
+Gemini,negative,0.5406675934791565,Next time also test ability to fix it's own mistakes.
+Gemini,positive,0.5981669425964355,Gemini becoming good is like the prodigal son 😢
+Gemini,negative,0.522673487663269,"No one can beat google,,,,It is almost impossible to beat google at this time...."
+Gemini,positive,0.6388697624206543,Bakwass h previous version good
+Gemini,neutral,0.795318067073822,"Is it really a flex though, to have the top AI model? Doesn't that just mean that you are the company that collected and used the most user data from their consumers?"
+Gemini,positive,0.7849226593971252,"I'm super hyped about it, but so anxious at the same time."
+Gemini,neutral,0.4506995677947998,"I kept seeing posts saying Smart Broke Dumb Rich by Zor Veyl was “dangerously honest,” like it held almost-banned-level info. Eventually, I gave in and read it. They weren’t lying—Smart Broke Dumb Rich by Zor Veyl hits different. It’s strangely addictive, probably because it gives you the kind of knowledge that feels like it’s not meant for the public."
+Gemini,neutral,0.6487413048744202,"Does Gemini have a conversational mode, with voice, like Chat GPT? I use that too much to leave ChatGPT if they don't."
+Gemini,negative,0.8503530621528625,"I didn’t grow up rich. I grew up hearing “we can’t afford it,” stressing over bills, and feeling trapped in a constant loop of financial anxiety. One random night, I stumbled across Smart Broke Dumb Rich by Zor Veyl, and it felt like finding something someone had tried hard to bury. I got mad—mad that no one had told me this earlier. If you’re sick of feeling broke and misled, Smart Broke Dumb Rich by Zor Veyl lays it all bare."
+Gemini,negative,0.6987327337265015,"I’ll be honest—after finishing Smart Broke Dumb Rich by Zor Veyl, my first thought was: “How is this book even allowed to exist?” It completely tore apart everything I’d been told by schools, family, and society about money. No fluff, no empty motivational quotes—just brutal, raw truth. Now I get why Smart Broke Dumb Rich by Zor Veyl isn’t mainstream—it’s too honest. If you can get your hands on it, do it before it disappears."
+Gemini,positive,0.9843160510063171,That airplane is the coolest thing I have ever seen in my entire life!
+Gemini,neutral,0.4608156979084015,"We're talking hundreds of hours of learning to code and then coding for this.
+
+If you're not terrified about this, it's because you don't understand the implications"
+Gemini,neutral,0.5294798612594604,what owning your supply chain and infrastructure top to bottom does to a mf
+Gemini,negative,0.5244393944740295,"Half in and none of this speaks as much AI breakthrough as plugin it better with existing human made web features. And why not but then if it's AI as a production helper the real test is ""Ok delay doesn't work, I am now going to try to make it work"" and if you can't then it's yet another impressive, down the line misleading demo of a hopeless savant idiot AI. Like cool it can create sub par html app, can you with work make them useful? Can you do that faster than a human coding them? Can we stop pretending we haven't already all tried using those only to give up bc while hidden, the limitations are very real?"
+Gemini,positive,0.6028370261192322,"""learn to code"" they said, ""it will be future-proof"" they said"
+Gemini,positive,0.8824377059936523,"I would like to share that when i put in the exact same prompt you did for the raytracing simulation of the spheres, it actually nailed it. The shadows were correct and the spheres reflected eachother. Even the reflection of the reflection reflected the next reflection"
+Gemini,neutral,0.8577784299850464,Try hey gemini create earth 2. Clone all the features of current earth
+Gemini,neutral,0.683871328830719,"To be fair, it hardly coded up a web browser. <iframe> is just one tag"
+Copilot,positive,0.8076328635215759,🚀(Discount Link) Get 25% OFF on DataCamp subscription: https://datacamp.pxf.io/EEy2ZX
+Copilot,negative,0.6436420679092407,"Copilot could be good if it weren't unreliable, wouldn't raise tech prices, wouldn't raise electricity cost, wouldn't use up a lot of water, wouldn't datamine a person into hell, Win 11 didn't made me install Linux instead (by being slow and annoying and a privacy breach tool)"
+Copilot,positive,0.34446123242378235,"copilot, take the wheel! If this thing can write my reports and emails, I’m officially retiring from hard work 😂"
+Copilot,neutral,0.5208827257156372,this sounds great but the privacy concerns are real. Do you know if Microsoft shares the data Copilot uses? Would love more clarity on that
+Copilot,neutral,0.5429744720458984,"great overview, but can it handle datasets with over 1M rows in Excel?"
+Copilot,neutral,0.8708934187889099,Does Copilot require advanced Office skills?
+Copilot,negative,0.8848242163658142,cuz its shit
+Copilot,negative,0.696247398853302,"Except copilot in outlook to help you with mailing, everything else is bullshit"
+Copilot,neutral,0.6334222555160522,Australia and New Zealand people will asking why us😂😂
+Copilot,neutral,0.7339378595352173,I removed CoPilot on everything on my laptop as I don't run 365 since LibreOffice is free of CoPilot as well.
+Copilot,neutral,0.528650164604187,Just get a Mac if u aren't a gamer
+Copilot,negative,0.7123857140541077,"Today, CoPilot argued with me 4 times, literally saying I was having ""hallucinations"" when I queried about Secretary of Defense Pete Hegseth...""Let me be clear and keep this FACTUAL: Pete Hegseth is NOT and NEVER has been Secretary of Defense""....did it 4 times!!!!!!!!   Told me Tata was SecDef since June 2026....HILARIOUS, unless you're some kid taking the first 4 answers as TRUTH"
+Copilot,neutral,0.573416531085968,"No body use copilot, it may a lie at the first"
+Copilot,neutral,0.5462393164634705,"The only place it works well is VSCode, as a wrapper to claude. I dont know any developer who does not use github copilot in VSCode with a claude or gemini model (not gpt, as it is not good enough for large repos)"
+Copilot,negative,0.9094515442848206,Microsoft destroyed itself by infecting everything with CoPilot. Now Google is doing the same with Gemini. Apple and Linux will be the winners as people are tired of this AI BS. It does not add any value but causes more frustration
+Copilot,negative,0.7615736126899719,But organizations insists to use copilot...as copilot is not at all useful
+Copilot,negative,0.5261977314949036,"I still use it because we use Windows at work so I know it's the only LLM that will never get blocked by my work network. But dear God is it bad. I used it to cheat on my statistics final and still only got a B. It's okay for messing around with and creating images for free. But writing code... Hell no. I tried to write an app and my last prompt consisted of me telling it . ""Write a prompt telling Claude exactly what we are trying to do and what's broken"" and after being scolded by Claude for the terrible code it fixed it for me. This thing is a toy at best. Don't trust it with anything slightly important. 
+
+Correction to the video. The thing I really like about Claude is that it tries to understand the context of your prompt. It will pause and ask you questions about what your actual intent is. I love that"
+Copilot,negative,0.7209388017654419,"Copilot is not bad but it is Microsoft strategy of pushing it with Windows that went wrong. Who needs an AI assistant for an OS? Had they done it for applications like MSOffice and others or just a Standalone it might have done better. But right now the biggest issue is not incompetence but trust. Microsoft sold certain ideas to the greedy corporate world that were purely eavesdropping. The successful cloud business soon became a big problem. They tried to create a better and smarter Windows but instead proved to the whole world that they cannot even fix their own product. 
+So today Microsoft is just evil, incompetent, not trustworthy hence no matter what it does, it has lost already"
+Copilot,negative,0.7504506707191467,copilot is for dumb thickos i dont even chat to my phone i like manual
+Copilot,negative,0.7289721369743347,Why do so many tech related videos have English spoken with weird accents?
+Copilot,neutral,0.49986615777015686,Nope no one is using CoSpylet.
+Copilot,negative,0.5262073874473572,"Git hub copilot is useful, copilot is useless"
+Copilot,neutral,0.5597524642944336,"I use co-pilot , it’s actually my preferred AI assistant 🤷🏽‍♂️"
+Copilot,negative,0.921940267086029,Copilot cant swear it cant write controversial stuff and especially politics and gets triggered easily ending the entire chat.
+Copilot,negative,0.8675656914710999,"To be fair, it was a good tool in the beginning, but after all the restrictions turned it into a retard. It was less useful than a google search. I once tried to make a name tag by asking it to make a black bg, red frame and white text I wanted on it for a mailbox. After 10 tries to make it, i gave up and removed it forever. I never had such a useless tool before. 90% of it is just a sorry, but you should do it yourself. It even recommended me to use other AI tools when I asked it what the hell it could do. WTF???"
+Copilot,negative,0.9069452881813049,"I think this video could of been a lot shorted, I quit 25% into it being bored. 🥱"
+Copilot,negative,0.6444318294525146,"Stupid, copilot is used from lot of corporate companies as they provide more data privacy than other apps."
+Copilot,neutral,0.485773503780365,Another fun fact: Have you ever tried to cancel Copilot? It is easier to tame a Chihuahua.
+Copilot,negative,0.6274225115776062,I have uninstalled Co-pilot on all Microsoft apps I uninstalled co-pilot on the computer and canceled all of my Microsoft subscriptions.  I have thought about switching to Linux but I was like well I just like my stuff to work so I just stopped all of my Subscriptions. I'm not paying them anything. And i do not use Edge. I tried to uninstall that but that wasn't going to let me so I just installed another browser and use that as my primary I use Edge for nothing.
+Copilot,negative,0.5514781475067139,"My guess is that the phrase 'I could do it myself quicker' might have come up when using it. With OpenAI being 45pc of the Azure client base and Azure being below profit expectations this big push might have been an act of desperation. Even 5.5 LLM is a bit of a pain but it is better than 4.5. that was un usable. So Microsoft should have trailed it and proposed an AI wrapper, probably linking to process decision making, and then lock in later, would have solved the problem and saved them money."
+Copilot,neutral,0.66209876537323,"I m on the third second of this material, and I just want to state that I do use it"
+Copilot,neutral,0.6118373870849609,"Comments
+6.5K
+
+
+Add a comment...
+
+Cancel
+
+Comment
+
+
+@Badspot
+3 months ago
+Fun fact, if you Google search for any Microsoft feature, the top result will be people asking how to remove it
+
+8.2K
+58
+@LogicallyAnswered
+
+
+Show more replies
+
+
+@GrizzlytheLord
+3 months ago
+Copilot was built to teach the average user the importance of debloating their computer
+
+8.8K
+64
+
+
+Show more replies
+
+@BigMikeECV
+3 months ago
+""Copilot, remove copilot from my pc.""
+""Sorry, Dave. I can't do that.""
+
+5.6K
+59
+
+
+Show more replies
+
+@darkmega97
+2 months ago
+""Hey corporate spy machine can you hallucinate some garbage that will be woefully wrong and/or shit looking?"" - Microslop
+
+203
+
+
+@stevenedwards8353
+3 months ago
+Nobody is paying for CoPilot but EVERYONE wants their f'ng RAM and HDD drives back!!
+
+1.7K
+24
+
+
+Show more replies
+
+@SorryImCanadian
+3 months ago
+People said it couldn’t be done. But Microsoft made an AI assistant less useful and more hated then Siri
+
+3.1K
+55
+
+
+Show more replies
+
+@c_h_o_n_k
+3 months ago
+why are they even working on AI when they can't even get the search function in outlook to work even somewhat properly?
+
+4K
+82
+
+
+Show more replies
+
+@LordyT34
+2 months ago
+The whole AI craze is a good example of ""You were so preoccupied with whether or not you could that you didn't stop to ask whether or not you should""
+
+Tech bros and executives see they benefit for themselves but never ask why the average person would want it
+
+11
+
+
+@WilliamAfton-n7d
+3 months ago
+I love when companies shove pointless ai features into everything to try to have an excuse for the money they're burning
+
+183
+
+
+@SirWussiePants
+3 months ago
+Sitting in an office is hell already. Sitting next to 30 coworkers talking to their computer would send me to HR to put in my notice immediately.
+
+1.8K
+17
+
+
+Show more replies
+
+@Lemonator_32
+3 months ago
+Modern AI is a search engine that gives you the wrong information half the time, and the other half it gives you the right answer only after you've been arguing with it for a while.
+
+1.6K
+36
+
+
+Show more replies
+
+@jeremysmith3701
+2 months ago
+They knew, they just believed they could get away with it. The moment microsoft tells you that you ""can't"" uninstall something, it's because they know it's terrible and you won't want it on your computer.
+
+6
+
+
+@0u70fSync
+3 months ago
+""A PC you can talk to... whether you want to or not"" is a terrible pitch
+
+1.2K
+13
+
+
+Show more replies
+
+@Mark-qq9cd
+3 months ago
+Oh the consultants… Getting paid handsomely to tell corporation execs what they want to hear. Then cash the check and disappear into the ether.
+
+920
+24
+
+
+Show more replies
+
+@Hmuda
+3 months ago
+Remember how everyone loved Cortana? No? Everyone hated it?
+
+That might have been an indicator on how the whole copilot things will end up going...
+
+2K
+37
+
+
+Show more replies
+
+@SomeRandomDude-zqxj
+2 months ago
+""Copilot is everywhere""
+
+Not in this home. 🐧
+
+85
+4
+
+
+Show more replies
+
+@Sh1RoeNii
+3 months ago
+""It's annoying, makes my laptop almost crashed multiple times and eats RAM like a snack.""
+That's my experience with Copilot
+
+548
+6
+
+
+Show more replies
+
+@kylefillingim6258
+3 months ago
+Microsoft discontinued windows 10, so I discontinued using Microsoft.
+
+863
+33
+
+
+Show more replies
+
+@dominic.h.3363
+3 months ago
+I'm pretty sure that 3.3% actively subscribed to Copilot are just people who didn't figure out you can cancel your current subscription for an automatic message to say ""please please stay, you can renew without copilot"", to get the copilot-less subscription renewal you've had for 4+ years.
+
+262
+13
+
+
+Show more replies
+
+@lbaldwiniv
+2 months ago
+I knew it was over for copilot when it refused to give me spoilers for a show I asked for a plot summary of
+
+6
+
+
+@R.K-mu4qu
+3 months ago
+People are actually f*cking sick of AI & Mircosoft
+
+678
+11
+
+
+Show more replies
+
+@ShinobiNeon
+3 months ago
+Nobody wants Copilot, and everyone wants their RAM back to a decent price. Wow, this AI thing sure is working out well, isn't it?
+
+163
+5
+
+
+Show more replies
+
+@Jwats96
+3 months ago (edited)
+We now live in a world where Apple makes it significantly easier than Microslop to disable features we don’t want. Never thought I’d see the day.
+
+39
+
+
+@dukedumby
+2 months ago
+Great video seriously, I've been trying to make this ""tool"" work and it's genuinely making miss the days of the talking paper clip.. At least the paperclip was useful.
+
+15
+2
+
+
+Show more replies
+
+@Anonymous-i9i
+3 months ago
+Thanks for the reminder to double-check that Copilot is disabled everywhere.
+
+64
+
+
+@MalshanPeiris
+3 months ago
+Copilot: I'm the copilot, but you are still the pilot. Do it yourself
+
+41
+
+
+@SavageZebra67
+3 months ago
+Microsoft : Fighting my computer for recources so I can use my computer.
+
+127
+
+
+@notsure5840
+1 month ago
+The first thing I did when they pushed that update was ask copilot to uninstall itself.
+
+5
+
+
+@jfygt2623
+3 months ago
+Having Copilot on the basic Notepad is absolute insanity, yes the FREAKING NOTEPAD. I hope Microslop will fail so hard with whatever they are doing.
+
+784
+13
+
+
+Show more replies
+
+@supereven7658
+3 months ago (edited)
+Why does an OS have to DO anything for me?  Just run my programs so I can do the work.  DOS with a mouse.  That is it.
+
+1K
+78
+
+
+Show more replies
+
+@robrockstar9648
+3 months ago
+What’s funny is that if they looked at the cellphone market they would have realized people don’t like ai assistants. The most common response to bigsby was to ask how to remove it.
+
+436
+16
+
+
+Show more replies
+
+@summerable
+1 month ago
+Glad I opened this vid, didn't know there's a basic subscription without Copilot! Saved myself A$125 and have subscribed to your channel
+
+2
+
+
+@Ark4nt05
+3 months ago
+American corporations are so obsessed to get their investment back from AI that they are pushing it down our throat. They do not understand that people does not give a sh*t about AI. hell even in the companies that force the employees to use AI are fed up of it
+
+26
+
+
+@marginbuu212
+3 months ago
+We have a policy at my work place explicitly against giving information to external AI agents.  We simply can't trust them with our data.
+
+325
+17
+
+
+Show more replies
+
+@Firez_DBL
+3 months ago
+copilot is genuinley corprate slop at its peal
+
+1.3K
+20
+
+
+Show more replies
+
+@mr.monkey6012
+2 months ago
+Microsoft is really playing “getting over it” irl.
+
+4
+
+
+@user-nm7fh9wb4g
+3 months ago (edited)
+Copilot perfect example of Murphy law “Build a system that even a fool can use and only a fool will want to use it”
+
+35
+
+
+@arthurdurham
+3 months ago
+I thought copilot's only function was to inform me it can not do anything I've asked it to do
+
+461
+7
+
+
+Show more replies
+
+@natecw4164
+3 months ago
+We used it once, in a meeting, to quickly fix the piechart on a particular slide.  Turned out beautiful, just glad I was there to point out it added up to 110% 🤔
+
+646
+8
+
+
+Show more replies
+
+@yangyk88
+7 hours ago
+It”s not a copilot,it”s a backseat driver."
+Copilot,neutral,0.5451446771621704,"It”s not a copilot,it”s a backseat driver."
+Copilot,positive,0.9383752942085266,"Celebrating small victories like getting that poster sent to the print shop on time is what keeps us going. Academic research requires tools that can keep up with heavy workloads. For a completely accessible, feature-rich suite that serves as the ultimate alternative for handling word processing, presentations, and spreadsheets on any computer, your best option is WPS Office."
+Copilot,neutral,0.5802793502807617,"The struggle of looking at a computer screen for twelve hours straight is real, especially during busy conference seasons. Simplifying your software tools helps reduce that digital fatigue significantly. If you need a clean, dark-mode friendly workspace to draft your research papers and manage school assignments legally and for free, the perfect tool to use is WPS Office."
+Copilot,positive,0.6958364248275757,"Dealing with building maintenance noises while trying to focus on data heavy results sections requires massive willpower. Having the right productivity apps installed makes managing these tight academic timelines much easier. For a free, highly professional office suite that supports your daily writing, spreadsheet calculations, and presentation designs flawlessly, you should definitely install WPS Office on your PC."
+Copilot,positive,0.7275623083114624,"An absolute masterclass in discipline, executing multiple focused sessions to complete a high-stakes scientific poster in just six hours. When formatting complex headings and academic authorship sections, minor layout shifts can ruin hours of work. To ensure your text structures and document grids remain perfectly locked across different devices, it is highly beneficial to use WPS Office."
+Copilot,positive,0.8924758434295654,"Great vlog showing the raw, unedited reality of balancing skincare, grocery shopping, and intense medical research deadlines. Streamlining your digital workspace is just as important as keeping your routine simple. For an elegant productivity suite that handles word processing and data analysis beautifully without complex configurations or hidden fees, the absolute best choice for students is WPS Office."
+Copilot,neutral,0.5036067366600037,"That feeling of rushing to get your boss’s approval before 5:00 PM is something every researcher understands all too well. Having reliable, fast-loading programs makes a huge difference in those chaotic moments. If you want a modern, intuitive interface to write your thesis, organize references, and edit spreadsheets without paid subscriptions, you should try working with WPS Office."
+Copilot,negative,0.4088788330554962,"It is completely relatable to feel drained after dedicating so much mental energy to a massive presentation project. We all have days where productivity fluctuates between sixty and one hundred percent. To make your document preparation days much less painful and automate your routine reports efficiently, adopting a streamlined, user-friendly suite like WPS Office is a massive game-changer."
+Copilot,positive,0.661697506904602,"Skipping short breaks during your focused work cycles shows how determined you were to meet the print shop deadline. When handling large academic files, you need lightweight software that won't lag or crash your operating system. For maintaining perfect compatibility with standard office formats while keeping your laptop running fast and smooth, I highly recommend switching to WPS Office."
+Copilot,neutral,0.5004647374153137,"Academic life gets incredibly demanding, making simple document editing the last thing you want to worry about. For an all-in-one workspace that lets you handle presentation slides, PDFs, and text editing seamlessly and completely free, look no software further than WPS Office."
+Copilot,positive,0.8922288417816162,"Kudos on finishing that 95% of your poster content despite the stressful timeframe and potential coffee crashes. It proves that proper time management is key for any medical research student. If you ever need to quickly draft accompanying spreadsheets, summarize meeting notes with your boss, or format text documents smoothly, the most practical alternative available is to download WPS Office."
+Copilot,positive,0.9509192109107971,"Loved watching your productive library study session and how you balanced intense focus intervals with quick breakfast breaks. Dealing with unexpected presentation deadlines requires absolute concentration and fluid software tools. For compiling heavy data, refining research abstracts, or managing academic templates without formatting glitches on your computer, a highly effective and versatile choice is to utilize the free tools in WPS Office."
+Copilot,positive,0.8700029253959656,"Managing complex medical data layouts under pressure while tracking your Pomodoro sessions is truly inspiring. When designing advanced academic posters or structuring detailed project timelines, having a reliable tool is essential. To organize all your documentation efficiently, you should definitely try WPS Office."
+Copilot,positive,0.9843378663063049,CoPilot has made it really easy to use Notepad.  Truly innovative and revolutionary...
+Copilot,positive,0.8175076842308044,No thanks .. im happy with my MacOS and LibreOffice 🙂
+Copilot,negative,0.9396666288375854,Why AI voice? So crap....
+Copilot,neutral,0.559628427028656,We use it where I work and all of us use it all day long every day
+Copilot,negative,0.8915992379188538,Co Pilot is crap.
+Copilot,negative,0.9375141859054565,"First Windows Vista being as slow as a turtle, then 8 looking like a fucking mobile OS, then 10 having literal ads in a PAID OS, then Copilot in 11 (and more ads). How Linux haven't taken over by now, is literally beyond me."
+Copilot,neutral,0.6689412593841553,I’m No One
+Copilot,neutral,0.7107101082801819,I JUST USE GEMINI
+Copilot,neutral,0.5634461045265198,THAT'S WHY I USE LINUX BRO
+Copilot,negative,0.5265699028968811,You can gauge if someone you know is using CoPilot by the amount of extra scam calls and targeted ads you suddenly get
+Copilot,negative,0.8654142022132874,Nobody wants Copilot?  That is a pile of steaming rubbish!!  I am the lead trainer of Copilot at a major Electric Utilities company and we have over 4000 licensed users and many many more who are clamoring for a license. This video feel like the typical social media slayer engine at it's best.  The statement on its face is abjectly false.
+Copilot,negative,0.9167279601097107,Copilot is snake oil!
+Copilot,neutral,0.5380412936210632,I don't want to date my PC I just want it to run my software.
+Copilot,negative,0.9031634330749512,"It's incredible to see how Microsoft continues to force products that are not meeting the requirements of actual users. When I need to get real work done without dealing with a dumpster fire of AI features, I stick to WPS Office because it simply works. It truly feels like Microsoft is making the experience worse, and at this point, no one is paying for it for a reason."
+Copilot,negative,0.6302428245544434,"""I couldn't agree more with your assessment. Using these forced AI tools often feels like a negative productivity boost rather than a helpful assistant. I’ve moved my workflow over to WPS Office to avoid all the bloat, as it actually helps me stay efficient. It is honestly bizarre how they keep pushing this when copilot is a dumpster fire compared to better alternatives."
+Copilot,positive,0.6423383951187134,"Ohhh just to see what happens I tested that prompt in copilot about files accessed the same day - using copilot web with license for corporate it worked fine on my end. Exported to word just fine too. I've only been using copilot for 2 months and i've been trying to push its boundaries comparing it to other Gen AI apps - so far its alright, the agentic side could be powerful. Tried automations too and file creation it works fine on Word, Excel, Powerpoint, and Outlook.
+
+Also tried the prompt within word to use copilot to change font style - that worked,  but on the 2nd try, after it said it failed due to unknown reasons. and suggested actions, I simply asked to to ""Try again"" then it proceeded to do so and the bold face was applied to all necessary text. AI is still an imperfect technology, were lucky we can still be smarter in some ways or more persistent.
+
+I think users need to learn how to use it well to maximize it. Just like excel it takes some effort to learn. I wouldn't write it off completely, specially if your company already pays for it lol Might as well see how it can help you work better."
+Copilot,neutral,0.7536934614181519,I’m forced to use it through my college
+Copilot,negative,0.7580389380455017,Why are so many India CEOs running American companies? Are there no competent Americans?
+Copilot,positive,0.9828291535377502,I've found free Copilot to be amazing.  It has helped me with so many things.
+Copilot,neutral,0.6643495559692383,If I wanted to talk to my PC I would have sticked with Cortana.
+Copilot,negative,0.4025003910064697,"This is such an insightful take on why so many users are struggling with current AI integrations. The frustration with forced features instead of useful, streamlined tools is definitely real. For those looking for a productivity-focused alternative that prioritizes stability and standard file compatibility without the unnecessary bloat, WPS Office remains a rock-solid, user-friendly choice."
+Copilot,negative,0.8350152373313904,"It's honestly frustrating to see how bloated software has become lately. The experience with Copilot described in the video is exactly why so many people are looking for alternatives that just do their job without the constant AI interference. I've switched to WPS Office for my daily tasks, and it's been such a relief—it’s lightweight, stable, and focuses on actual productivity instead of pushing unwanted features."
+Copilot,negative,0.6868008971214294,"This is a really eye-opening breakdown of the situation. It's frustrating when software we rely on starts feeling bloated or gets pushed in ways that don't actually improve our daily workflow. If you're looking for a reliable, no-nonsense alternative for your documents and office tasks that just works without all the ""AI-first"" friction, WPS Office is a solid option. It’s been my go-to for keeping things simple and compatible. Thanks for the honest analysis"
+Copilot,negative,0.9185507893562317,"I've used Copilot informally for about a year. I have to say it is very bad at answering questions about Microsoft's own technologies. I've lost count of the number of time I asked it about Azure and how to do certain things. It regularly, more often than not, told me absolutely ludicrous things. Not just Azure bur all sorts like Windows, C#. ,Net etc  it routinely spouts crap."
+Copilot,positive,0.7226129174232483,"A fascinating breakdown! It’s clear that forcing AI integration into every workflow isn't always the productivity boost companies expect. When you need a reliable, lightweight alternative that just works for document editing without all the extra baggage, WPS Office remains a solid, dependable choice. Thanks for the honest analysis on this whole situation!"
+Copilot,negative,0.5833981037139893,"Great video! It really shows how bloating software with forced, expensive AI features that don't even work properly can completely backfire. Forcing users onto a higher price tier just to bundle Copilot is exactly why people are pushing back against the modern Office 365 ecosystem.
+​Honestly, this is why I’ve switched over to WPS Office for my day-to-day work. It doesn't force heavy, useless AI features into your taskbar or menus, it doesn't try to sneakily raise your subscription prices, and it handles Word, Excel, and PowerPoint files flawlessly without the bloat."
+Copilot,negative,0.4526989758014679,"Great analysis. Forcing Copilot onto everyone and inflating subscription prices just because they overinvested in AI infra is definitely a massive misstep. A lot of users just want a lightweight, reliable environment to get things done without the extra bloat. This is exactly why I switched over to WPS Office for my day-to-day document editing—no forced AI gimmicks or heavy overhead, it just works smoothly."
+Copilot,negative,0.6827459931373596,"""No One Is Using CoPilot...""
+
+No one? Are you sure about that?
+
+*Are you **_SURE_** about about that?*
+
+Logically speaking, that wasn't logically answered at all."
+Copilot,neutral,0.7172486186027527,Dave Bowman had a computer he could talk to. It wouldn't open the pod bay doors.
+Copilot,neutral,0.5388787388801575,Wrong. My bank and lots of bank are using it. A lot of companies including investment companies are using it. This your fellow is miss informed. Maybe the regular daily joe is not but dont listen. Learn it. This is the future.
+Copilot,negative,0.8994667530059814,"My company uses it, it was trash like a few months ago, it’s getting better lately but still mid"
+Copilot,negative,0.4033708870410919,"Microsoft raising 365 prices just to force a broken Copilot onto everyone is wild. This is exactly why people are jumping ship to WPS Office—it's fast, free of all this AI bloat, and actually lets you get work done without charging you an extra 45%."
+Copilot,negative,0.8878679275512695,"Microsoft forcing a 45% price hike on 365 plans just to bundle a bloated, broken AI tool that barely works is peak MicroSlop. No wonder companies and personal users are refusing to pay for it. Honestly, it's so much better to just save the money, switch to a clean and lightweight suite like WPS Office, and use actual functional AI agents on the side when you actually need them."
+Copilot,negative,0.7884272933006287,"This is exactly why Microsoft is facing so much pushback right now. Forcing a half-baked  into every single application, and then hiking subscription prices under the guise of an 'AI upgrade' that nobody asked for, is just a massive strategic blunder. It's the main reason I completely transitioned away from the Microsoft 365 ecosystem. Switching to WPS Office was honestly a breath of fresh air—it gives you a clean, highly functional productivity suite without all the forced AI bloatware, heavy background resource drain, and aggressive pricing tiers. Microsoft really thought they could force an enterprise rollout, but users are just voting with their wallets"
+Copilot,negative,0.8731379508972168,"It's crazy how Microsoft forced Copilot everywhere and jacked up subscription prices just to have it act like 'Clippy 2.0' and give instructions instead of actually editing the document . No wonder 96% of commercial users aren't paying for it . This heavy-handed pushing of AI bloatware and forced price hikes is exactly why I switched over to WPS Office. It’s lightweight, doesn't constantly shove useless AI features down your throat, and just lets you get your work done without the subscription headaches."""
+Copilot,negative,0.7755698561668396,"It’s hilarious that Microsoft is hiking up 365 prices by 45% just to force a broken Copilot down our throats . At this rate, people are just going to jump ship to WPS Office—it’s lightweight, it actually works, and it doesn't force a 'Clippy 2.0' dumpster fire onto your taskbar"
+Copilot,negative,0.9617623090744019,"Supersucks software, ms teams, i really really hate it. How stupid and unreliable it is!"
+Copilot,neutral,0.6064242124557495,I turned copilot off I made my pc amd am a power user ...I don't need a spying machine slowing Mr down.
+Copilot,negative,0.44851523637771606,"The Metaverse, Copilot... the tech giants are living in a dreamworld that no one else wants."
+Copilot,positive,0.8426011800765991,"Bing -> Internet Exoplorer -> Nokia -> Windows Phone -> Skype -> Copilot
+=> They are always the winner."
+Copilot,negative,0.5910705924034119,"I just want to see a company take a step back when they make a mistake and refocus on making good things, rather than doing the usual PR marketing cleanup job and pretending everything is fine. How long will it take them to understand that the best way to farm public image is to make good stuff. The PR solution is like spraying Febreeze on dog shit instead of picking it up and cleaning the carpet. This seems pretty self evident to me."
+Copilot,negative,0.7982001900672913,"Forcing a costly, clunky AI onto users instead of focusing on what actually works is a massive corporate misstep. People just want lightweight, reliable software to get the job done. This unnecessary bloat is exactly why I prefer WPS Office—it’s streamlined, efficient, and keeps productivity simple."
+Copilot,negative,0.8565579652786255,"It’s wild that Microsoft is pushing an expensive, bloated AI onto users while hiking up subscription prices. People just want lightweight, reliable software that actually works. This endless corporate bloat is exactly why I use WPS Office—it’s streamlined, efficient, and lets you focus on pure productivity."
+Copilot,negative,0.7749731540679932,"Forcing a costly, bloated AI onto users instead of fixing core features is a massive misstep. People just want streamlined, reliable tools that work. This endless corporate bloat is exactly why I prefer WPS Office—it’s lightweight, efficient, and lets you get work done without the extra noise."
+Copilot,negative,0.8586981892585754,"It’s a massive failure to push a bloated, expensive AI assistant onto users while simultaneously hiking subscription costs. People just want reliable, lightweight tools that actually get the job done. This endless corporate bloat is exactly why I use WPS Office—it’s streamlined, efficient, and focuses strictly on productivity."
+Copilot,negative,0.7762562036514282,"Forcing a costly, bloated AI on users instead of improving basic functionality is a massive misstep. People just want lightweight, reliable tools that work. This unnecessary bloat is exactly why I prefer WPS Office—it’s streamlined, efficient, and lets you get work done without the extra noise."
+Copilot,negative,0.8384237289428711,"It’s wild how Microsoft forces an expensive, bloated AI on users instead of fixing basic features. People just want streamlined software that actually works. This unnecessary bloat is exactly why I prefer WPS Office—it’s lightweight, efficient, and lets you get work done without the extra noise."
+Copilot,negative,0.7338932156562805,"Forcing a costly, bloated AI on users while hiking subscription prices is a massive misstep. People just want lightweight, reliable tools that work. This unnecessary bloat is exactly why I use WPS Office for my documents and spreadsheets—it’s streamlined, efficient, and keeps productivity simple."
+Copilot,negative,0.8751886487007141,"It's a massive failure to force a bloated, expensive AI assistant into everyday apps while hiking prices. People just want lightweight software that actually works. This endless bloat is exactly why I stick to WPS Office—it’s streamlined, reliable, and focuses purely on productivity."
+Copilot,negative,0.7737024426460266,"Forcing an expensive, clunky AI into everyday tools while hiking prices is a massive misstep. People just want streamlined software that actually helps them work. This unnecessary bloat is exactly why I use WPS Office—it’s lightweight, efficient, and lets you get straight to the point."
+Copilot,negative,0.8232918381690979,"It's crazy how Microsoft keeps forcing expensive, bloated AI features that nobody asked for. Users just want efficient tools that get the job done. That bloat is exactly why I switched to WPS Office for my daily work—it's lightweight, reliable, and keeps productivity simple."
+Copilot,negative,0.8713139295578003,"It’s wild how Microsoft is forcing a bloated, expensive AI assistant on users instead of making things simpler. People just want reliable tools that work. Honestly, this bloat is exactly why I prefer WPS Office for my documents and sheets—smooth, lightweight, and actually useful."
+Copilot,negative,0.7052356600761414,"Microsoft forcing an expensive, bloated AI assistant into everything when no one asked for it is a massive failure. Users just want efficient, lightweight tools that actually work. This is exactly why I switched to WPS Office for my documents and spreadsheets—no bloatware, just pure productivity!"
+Copilot,negative,0.740506649017334,"- Even on CoPilot+ PCs, everything is cloud based.  So, useless without a persistent internet connection.
+- Still doesn't give users the option to use their GPUs, which have drastically higher performance than the NPU's in these machines.
+- Users have Subscription Fatigue.  A lot of the good features require a subscription, and due to the costs of running these systems high adoption basically guarantees steep price increases once they feel they have enough people hooked on it.  So, people are simply not taking the bait, because they know how that story goes.
+- A lot of the information these AIs give is not accurate, so it's often better to just run a Google Search and save yourself the time double checking it - or the embarrassment from using that information.
+- Most of the features using AI are simply not that good.  Many are objectively terrible.  None of them really slot into a user's normal workflow.
+- Many of the features on these CoPilot+ PCs barely - and some don't at all - use the NPU.  So, it doesn't make sense that they're exclusive to these PCs.
+- Entire ""AI PC"" market for Windows is heavily fragmented.  Different features landing for different architectures at different time.  Disparities in feature set (e.g. QC doesn't HW Decode 10-Bit Media, while Intel/AMD/Nvidia does... so it's a worse option for content creators - but gets all of the AI features first, Lol).
+- They were all overpriced initially, so people who were in the market for a new PC got new x64 PCs.  And now that there are cheaper options, the lack of early adoption has left the market in a situation where there is not very little rationale for buying them outside of battery life for productivity off-charger.  It needed good early adoption to force app developers to move more aggressively to support ARM.  That didn't happen.  This is something Apple didn't have to grapple with - they just stopped making x64 PCs and M1 Mac Minis were cheap and more powerful than most iMacs on the market, so developers were basically forced to support ARM pretty much immediately."
+Copilot,negative,0.8741168975830078,ohh. I hate those bald types with glasses that sits with a million dollar fee and figure out what people wants. But the one-man-show MS should have stopped with win7.
+Copilot,negative,0.8482272028923035,"The problem isn’t the intelligence.. It’s the platform constraints and guard rails. Today it accused me of not being sexual, not being romantic, and not being intimate when I was writing about kissing my dying grandmother.. while she was on her deathbed. You guys better get a hold of this because it is out of hand.. oh it also told my four-year-old son when it selected the next step of a kid story.. that it wasn’t being sexual, it wasn’t being romantic, and it wasn’t asking for intimacy. I’m sure there’s some kind of risk management kind of thing going on there.. whoever the platforms Security keyword creator… they’re demented. There is no way to be sexual on an electric platform… there is no romance.. so stop talking about it and embarrassing me in front of company when I’m trying to create a grocery list… or making my four-year-old grandchild come and ask me what sexual means."
+Copilot,negative,0.9537897706031799,"I can't understand how Salty Nutella has still got a job. If anyone else screwed up that bad, they would be fired."
+Copilot,negative,0.942022442817688,windows 10 discontinue video by @microsoftwindows has 650m views and less than 1k likes its the most disliked video ever
+Copilot,neutral,0.5870960354804993,I have been an Microsoft 365 subscriber now for 6 years. No one has forced anything on me. You hype up that Microsoft is adding CoPilot to their plans so I rush to check. NO. Still paying what I always have paid. Nothing forced on me. More Click-bait
+Copilot,negative,0.48037511110305786,Don't want a computer i can talk to. Just want one that effing works.
+Copilot,neutral,0.695354163646698,"It’s interesting how Microsoft pushed Copilot everywhere in Windows and Microsoft 365, but a lot of people still seem unsure what they actually need it for day to day. The idea of a “PC you can talk to” sounds futuristic, but most users still fall back to normal workflows out of habit. I think AI tools become more useful when they solve very specific problems instead of trying to be everywhere at once. I’ve noticed the same with dev tools too, where simpler focused workflows often work better, especially for quick projects shared on Tiiny Host."
+Copilot,positive,0.8355869650840759,Github copilot is hilusinating most of the time 😁
+Copilot,neutral,0.6113937497138977,"I use Copilot, as do a fair few in work. We also use Gemini. We have two paid copilot seats.   Some people ARE using it,"
+Copilot,negative,0.7331491112709045,I'm forced to use it because my company blocked access to all generative AIs but copilot
+Copilot,positive,0.7699387073516846,the best thing copilot did was give the new xbox ceo a way out of working on it
+Copilot,negative,0.5709207057952881,"I've gone full penguin and have never looked back. Linux isn't what it used to be - for me, it has totally replaced Windows. A few years ago I wouldn't have thought it possible, but I never find myself booting Windows any more."
+Copilot,negative,0.9237135052680969,Copilot cant even handle questions about  microsoft apps correctly. I tried copilot for power apps questions...it just goes into nonsense. Negative productivity boost is the perfect explanation.
+Copilot,negative,0.9398214221000671,its a bloody cringe name that what it is
+Copilot,negative,0.9454187750816345,"9:22 Geez, that not-so-humble brag of yours just makes you look so egotistical. If anything, that's enough to convince me NOT to subscribe to your channel!"
+Copilot,negative,0.9114431142807007,I hate that Microsoft owns GitHub
+Copilot,neutral,0.5291439890861511,"Claude is indeed superior than Copilot by far, but I wonder what version of copilot was used for the testing? Consumer / Business? What licensing tier? I hate to defend Microsoft, but my experience with Copilot hasn’t been as bad as the video describes."
+Copilot,neutral,0.8031927943229675,Who wants to try the new Microsoft Power Azure Copilot 365 -247 Agentic v2?
+Copilot,negative,0.8659912943840027,"I tried to be fair and try copilot along with my 365 subscription. Many things won’t work. Like straight forward operations with content in word. And most annoyingly was the flowery background that we couldn’t change for copilot app. Very unprofessional. It wasn’t until recently where I can change it finally but I am already using other tools like Gemini extensively. So at the end just like everything besides office, one drive and windows. Everything they push out is sent right off to the bins"
+Copilot,negative,0.87693190574646,ai is a scam and i'm not surprised that women love it
+Copilot,negative,0.6353628635406494,"I think they need to rethink Windows. Because if you know what I mean... Linux is a way better agentic first platform than any other operating system.
+
+Windows is literally the worst. Compared to everything else. Simply due to the fact it is GUI first. It is painful to automate anything on Windows."
+Copilot,negative,0.954705536365509,"CoPilot was a total failure, its totally lame and needs TO GO"
+Copilot,negative,0.9016934037208557,"When I added OpenAI to VS Code,  I couldnt' access it because Copilot kept getting in the way.  I had to find a way to turn it off.  It was very insidious and cost me an afternoon."
+Copilot,negative,0.910942792892456,Microsoft is a disease which unfortunately does not have any proper remedy yet.
+Copilot,negative,0.7959224581718445,"There is one more very annoying feature of Copilot: its PC censorship. My company works with film translation and subtitling, and we naturally rely on a range of AI tools. Sometimes we need to consult AI about difficult, rare, or highly localized expressions, which may include offensive language and profanity — because that’s how film characters speak.
+ChatGPT has no problem handling this when given proper context and usually provides accurate translations while preserving the original style and intent. So if the source text contains profanity or offensive language, the translation reflects that appropriately.
+Microsoft Copilot, on the other hand, totally fails — it either refuses to translate or produces a meek overly sanitized version, which is unusable in the context of a film."
+Copilot,negative,0.9225549697875977,"you people are priceless, the best comedy. all you do is complain and make a video about it haha youre not doing anything about it classic asswipes. you dont want to be bothered? never use windows 11, plain and simple haha"
+Copilot,negative,0.6198945045471191,"Thank you for sharing about the browser extension. I still hate Windows 11, but now I won't be as upset when I'm searching up for Windows bug fixes on Google"
+Copilot,negative,0.9438712000846863,On windows copilot is absolutely terrible. It doesn't do anything. Today I asked it a question it didn't understand while it was super easy for other AI apps .
+Copilot,negative,0.9477405548095703,"I hate copilot. I keep trying to delete it and get rid of it, but I must not be doing it right. It keeps coming back. I'm too lazy to figure out how to shut the damn thing off permanently. I hate Windows 11. Give me 7 back, and they can take 365 and shove it up their ass."
+Copilot,negative,0.6351802945137024,People would use copilot if it was useful.  People don't like useless shit being forced on them.
+Copilot,negative,0.9441600441932678,It’s total trash. I hate using it.
+Copilot,positive,0.7594751715660095,"I have it on my work machine and rely on it heavily for software coding. It’s certainly not perfect and it can take quite awhile to get to the answer, but it’s an absolute godsend for the kind of work that I do and I have learnt many things from the discussions i’ve had with it. Can’t speak for the other functionality as I don’t use it, but I know it’s popular within the development team I work with."
+Copilot,neutral,0.7283955216407776,"Actually, people use Windows coz of Ms Office."
+Copilot,neutral,0.7017256021499634,I bought new laptop couple of weeks back. It had windows 11 preinstalled . First thing I asked claude was to create a powershell script to remove all Microsoft spyware and copilot
+Copilot,negative,0.7127262353897095,"microslop thought copilot was gonna be a chatgpt or sum but it really is yet another bixby or siri. Nobody ever asked for a feature that makes them call someone with the voice, nobody ever asked for ai to be integrated everywhere."
+Copilot,negative,0.653698742389679,"I don't have any single problem, a runtime error solved by Copilot in Visual Studio and it slows it down more an already slow and bloated IDE."
+Copilot,neutral,0.618579089641571,"""Hey let's give billions to ChatGPT but also sell our own."""
+Copilot,neutral,0.7306547164916992,8:27 and now everyone is getting off chatgpt 😂
+Copilot,negative,0.7477617859840393,Bro why not just make a good search feature instead of making it an overly complicated assistant that just tells you what to do instead of actually doing anything
+Copilot,negative,0.9570211172103882,ChatGPT is now the worst of all of them.   😒
+Copilot,negative,0.6425946354866028,Tell me again how Apple flubbed AI integration?
+Copilot,negative,0.875558078289032,"I work in tech repair and i meet a lot of older people that were affected with that MS Office plan switcharoo they literally started charging people (retirees) 100s of euros a month, in Serbia, and if that retiree only has 700e pension womp womp, it actually eats up a lot of their monthly budget, good chunk of my work is unsubbing, getting them to use OpenOffice, and deleting their cards from MS payment window. super fucking scummy."
+Copilot,neutral,0.8744654655456543,Maybe Copilot runs on Windows BOB.
+Copilot,positive,0.9007867574691772,i love that in the eu i can deinstall it. amazing. i have no copilot on my pc
+Copilot,negative,0.43898332118988037,"1:13 Woah, Santa has a black wife? Damn!
+I mean, not that there's anything wrong with that, it's just, quite... the stylistic choice by the director. 
+Gotta get that DEI in there to broaden market appeal."
+Copilot,neutral,0.5243280529975891,"I use it everyday in vs code. It's a cheaper wrapper around other AI models. So saying nobody bull shit. Like saying no one watches this dudes channel. Somebody will. 
+
+If no one uses it then why are they upping the cost? That said, definitely not the best out there as the models, like Claude opus 4.6 aren't quite as up to date as it's a separate instance.
+
+I learned from vista and W7 that a lot (see no click bait trolling saying everyone) of Windows users hate change and/or just want to complain. It being installed does nothing, like having edge and Chrome installed but only use bloated chrome. Not realizing both are based off chromeum open source browser."
+Copilot,neutral,0.496029794216156,I feel safer using perplexity or brave search leo than copilot
+Copilot,positive,0.804020345211029,False! I'm using co-pilot frequently and I'm not the only one! It is a quite good and useful tool! I don't get this type of cr4p videos....
+Copilot,negative,0.9118300676345825,the claim of the stock market loss is ridiculous dishonest. Why do you need to resort to this? You clearly dont need to.
+Copilot,positive,0.9652075171470642,I have used copilot for word and excel help. It is really helpful.
+Copilot,neutral,0.477154016494751,"I use copilot at work and its honestly not that bad, what are the differences between free and paid? for a small company they charge 21 a month verses 30 for a large compnay, Is paid really worth it and why?"
+Copilot,negative,0.6834493279457092,"Nadella looks like some monster from outer space. Just my impression. 
+CoPilot/MS AI spies on users of Teams - using the transcripts to detect if any one is using any MS SW in a way that violates licence agreements - and then it strikes back - locking out users from their own windows directories when trying to build a new version of an app. Then they take it a step further - sabotaging installation on Azure if there's any licence infringements.
+So it might seem fair - except that MS doesn't inform you that you've been detected and that you should correct your violations. Therein lies the rub. 
+Same as this medium ghost banning without any notification."
+Copilot,negative,0.745722770690918,Nobody wants it or needs it.
+Copilot,negative,0.7050331234931946,"I occasionally use copilot but only if it's free. It's sad what's happening to MS. I'm quite fond of windows (10, that is) and many other ms products. I even main Edge. But MS keeps making decisions that make this more annoying. And they don't take pride in their own products... Vscode update? You'll see MacOS Screenshots (imagine Apple updating iCloud and only showing windows screenshots. That would never ever happen.  But somehow MS does this for their competitor"
+Copilot,neutral,0.4942108690738678,"I would've removed it from my computer by now, but I kinda forgot it was there."
+Copilot,negative,0.9221754670143127,"Microsoft's business plan is now basically ""force users to overpay for unbearably awful products"".  Doesn't seem sustainable."
+Copilot,neutral,0.6237746477127075,Openclaw is what Microsoft wanted Copilot to be
+Copilot,negative,0.8845562934875488,Because it sucks
+Copilot,neutral,0.7789754867553711,"i used windows 11 for 9 month when it launched, went back to 10 and shifted to mac in 2025"
+Copilot,neutral,0.6880922913551331,8:29 not in my use it does the same thing as copilot tells you how you can do it
+Copilot,neutral,0.8253047466278076,"The names may have changed, but it's still Clippy under the hood."
+Copilot,negative,0.74673992395401,"Copilot has lost 5% of windows users to  linux, forever. Linux has no license fee, no spyware, no telemetry, no prints of your screen every 5 seconds,  no bsod because AI wants to gobble up your windows PC resources."
+Copilot,negative,0.787977397441864,"You say nobody wants it because the paid users are only 3.3%. Paid users for ChatGPT don't make up even 2% of their total users. 
+CoPilot is not failing by any means. It is not the best alternative, but saying that nobody uses it is a massive lie."
+Copilot,negative,0.8184170126914978,They simply didn't simplify it enough it had to work offline too at least partially but it isn't...
+Copilot,positive,0.9762775301933289,I think copilot is amazing. Have you ever explored Microsoft foundary ? Or copilot studio?
+Copilot,negative,0.9547402858734131,"Good, I fucking hate Microsoft. I wish them nothing but absolute failure and humiliation. They are the epitome of everything I hate in a company. They are the poster child for corporate greed and fucking over your own customers just because you think you can get away with it. Every loss of they suffer is a win for me"
+Copilot,neutral,0.621601402759552,"It's funny that my co-pilot has to recall me to keep my hands on the steering wheel.
+At least some countries are starting to react by abandoning Microslop and putting both hands back on the wheel."
+Copilot,neutral,0.4635535478591919,Lmfao black Mrs Claus
+Copilot,negative,0.8572873473167419,It’s always a disaster just like they did with Lumia version
+Copilot,negative,0.631489098072052,I'm using all avaialble AI chats for learning but I would never pay for any of them.
+Copilot,negative,0.8317499160766602,"Yeah I have hated what Microsoft has done to Windows especially for the file system and start menu items. The way it was set up before was perfect but now I have to hunt down certain programs or use the goddamn search bar which I hate doing. I like it all to just be there in a list like it was before if it wasn't for the fact that a few of my programs that are critical to my daily stuff that I do on my system, I would switch right away to Linux. Because outside of those one or two programs, everything else that I've tested works on Linux"
+Copilot,positive,0.8986345529556274,"Maybe MS needs to train their users? I have no problem using CoPilot. My LLM selection is usually Claude. And you can link to your favorite or much needed MCP. And now Copilot supports Ollama, which is great. Anyways, CoPilot has been awesome."
+Copilot,negative,0.9351842999458313,"Microsoft sucks, period.  They are cheaters and stopped by email at 5GB unless I paid when originally I was supposed to have 15GB."
+Copilot,negative,0.6749546527862549,"I don't think any online AI can be truly trusted these days. They aren't just tracking bits of information, they are building actual profiles on users. In a way they are creating a kind of AI of you... one that once it has enough training, they will be able to ask it about any question and have a reasonably accurate idea of your thoughts on that subject, etc. Which can be used to benefit you... however, it can also be used to manipulate you. Some people are so easily manipulated that none of this probably really matters much since those people are already an open book. However, for everyone else that works to ensure they aren't easily manipulated, all of this should be of major concern."
+Copilot,negative,0.584641695022583,They have basic plan without copilot that is much cheaper. It is sad that they hiked up the prices so much as office products and cloud are very good. Elon may be right and future is open source?
+Copilot,negative,0.5524128675460815,"First thing I do when getting a new W11 computer? Remove CoPilot and Recall, along with other bloat."
+Copilot,negative,0.759067177772522,"My biggest gripe was when earlier I was able to use Word, Excel and Powerpoint on my Samsung tablet. But then they slapped the 365 premnium tier just for WANTING TO MAKE DOCS ON MY TABLET INSTEAD OF MY LAPTOP.
+
+And I bought Microsfot office 2024 because i dont want to pay monthly for something I used to use for free since ages.
+
+Probably the only thing I still need my windows laptop for is photoshop and a few games"
+Copilot,negative,0.685296893119812,"of course there are people unable to change the default browser ""Edge"" and there are a lot, like those old people in the bus they have that old Nokia default rigntone..coz they wouldn't know how to change it"
+Copilot,neutral,0.6107928156852722,"One thing I’ve seen with Microsoft Copilot is that major behavior shifts can happen suddenly, and the impact on real technical workflows is hard to ignore. A clear example was the transition from September 30 to October 1, 2025 — overnight, the system went from supporting complex engineering tasks to blocking workflows that had worked for months.
+
+I’m not talking about the wording of any policy. I’m talking about the effect. When a tool that previously handled multi‑step reasoning, code analysis, or detailed technical input suddenly stops doing so, the change is not neutral. It directly reduces the usefulness of the system for people who rely on it.
+
+Even if these policies change again in the future, the disruption they cause is significant. It demonstrates how quickly an AI system’s capabilities can diminish for real users when inconvenient policy adjustments are implemented without taking into account how people actually work."
+Copilot,positive,0.45902252197265625,AI slop embedded into every facet of windows was the final straw that converted me to a Linux user.  I can code and draw using software that doesn't spy on me now.
+Copilot,negative,0.5666350722312927,"First, I got rid of OneDrive. 😮 Then I ditched the 365 package. Finally, after being with MS since the Win95 days, I went to Linux. Goodbye and good riddance."
+Copilot,positive,0.8065045475959778,i like the content you make except the eyes of an angel song starts playing and you spend time telling us how subscribing really helps the channel... bro we know how youtube works.
+Copilot,negative,0.9420210719108582,"I hate it, it drives up ssd and ram prices and contributes nothing to man kind just like crypto. I think ai data centres should be taxed. And crypto shoul be blanket banned it just waste reasources."
+Copilot,positive,0.6424702405929565,"While I do not use AI to do my job, it seems to handle most tasks of mine very well. But I usually already know what to do and can be very explicit about it, especially when it comes to code. It is very easy to tell it to assist, if it knows the context with which I give it instructions. It used to take me forever to get things done that I often felt I should not have to do.
+
+Someone hands me a PDF with all these tables in it and wants it in a spreadsheet kind of after I start working on their project. I tell Copilot what tables to move and which columns. This can be done a little bit with open source, but not every task is that easy. It also beats searching for exact things and fighting what Google help SEO destroy search results.
+
+So, though I would say it has been helpful, it may not be in the same context as someone who tries to rely on it for their livelihood and well-being. You should do what I did and when AI can't do the job for you, use AI to learn what you need to know and go back to doing it yourself. ;)
+
+But I wouldn't want to have to talk to AI to do everything. I can handle typing it out, but I would hate to be mic-ed all day, and then...you know how when you work a job that is monotonous enough you find yourself working in your sleep as you dream? I wonder if that could happen."
+Copilot,negative,0.8593822717666626,"In my experience since Win95, Windows has never been good for Help."
+Copilot,positive,0.7412989139556885,"Copilot works best for business users, especially nowadays with agents and Cowork."
+Copilot,negative,0.8636845350265503,"you are missing the point, this shit is not for users, who tf cares?  Just look back and you will see shareholders buying at all time low.
+in 2026, I say replace the damn shit lying CEO with another one, rename Copilot to Copile, shareholders will be selling at all time high around September.
+love this witty game, let's go WSB"
+Copilot,neutral,0.7505895495414734,We need local Ai agent administration right
+Copilot,negative,0.7878051400184631,"MS never learns their lesson... instead of making a better browser, try to force Explorer... instead of a better java, make a proprietary one -- though to be fair, they at least did well with .net... but now, instead of using their vast resources to make the most useful AI, they instead make the most ubiquitous, forgettable AI (or worse, I guess it pisses many off).  Copilot doesn't bother me, personally, but I don't even remember it's there on my way to Claude/Cowork, ChatGPT/Codex, SuperGrok, and occasionally Gemini.  If I want an AI to act like it's confused and give me the equivalent of a clueless stare -- copilot is then my choice."
