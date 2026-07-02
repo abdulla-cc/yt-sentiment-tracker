@@ -1,0 +1,41 @@
+name: Weekly Comment Collection
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  collect-and-score:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run comment collection
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python run_collection.py
+
+      - name: Run sentiment scoring
+        run: python run_scoring.py
+
+      - name: Run aggregation
+        run: python aggregate.py
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add data/monthly_sentiment.csv data/weekly_sentiment.csv
+          git diff --staged --quiet || git commit -m "Automated weekly data update"
+          git push
